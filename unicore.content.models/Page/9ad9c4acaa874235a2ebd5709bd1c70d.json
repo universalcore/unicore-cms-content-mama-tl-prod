@@ -5,13 +5,13 @@
   "title": "1 ano de idade", 
   "primary_category": "44fe51abce3f4d3ab3b60cde2bc76288", 
   "created_at": "2014-12-10T11:01:12+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2014-12-11T10:25:52.791401+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-20T11:23:41.865234+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "1monthold_por_baby_Angola", 
   "uuid": "9ad9c4acaa874235a2ebd5709bd1c70d"
