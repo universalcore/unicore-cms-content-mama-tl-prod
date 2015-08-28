@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:24:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:24:14+00:00", 
+  "modified_at": "2015-08-28T09:19:46.926823+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "66d797819e3347009e6cb848713d8f76", 
+    "c392fd66d41d4acd942cc054112c675f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAdalah sangat penting untuk Anda menjaga diri serta bayi. Jika Anda rasa sehat dan baik Anda akan menghadapi tuntutan kehidupan sehari-hari dengan lebih baik.\r\n\r\nAdalah mudah untuk berkonsentrasi pada bayi dan melupakan diri sendiri. Tapi tubuh Anda telah melalui desakan besar. Jika Anda mengalami masalah, bertindaklah.\r\n\r\nBuat rencana awal dalam kasus ada keadaan darurat. Pilih siapa yang akan menjaga anak-anak yang lain jika Anda atau bayi Anda sakit. Juga atur perjalanan ke bidan atau fasilitas kesehatan dan pilih siapa yang akan bersama Anda.\r\n\r\nCoba mencari jalan dan transportasi yang paling cepat. Anda mungkin membutuhkan uang, jadi mulai hemat sedikit. Ini akan memberikan Anda ketenangan pikiran.\r\n\r\nJika Anda mengalami  tanda-tanda berikut, berkunjung ke bidan untuk mendapatkan bantuan.\r\n\r\n -  Anda mengalami pendarahan yang parah\r\n\r\n -  Anda sesak napas dan terasa nyeri pada dada\r\n\r\n -  Anda demam dan rasa tidak sehat\r\n\r\n -  Anda tidak bisa kencing\r\n\r\n -  Perut anda nyeri\r\n\r\n -  Anda mendapati cairan yang lengket dan berbau dari vagina\r\n\r\n -  Nyeri saat kencing\r\n\r\nDapatkan bantuan dengan cepat supaya Anda bisa pulih dengan cepat juga.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 33, 
+  "position": 75, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-postnatal-danger-signs", 
   "uuid": "34b48ee22b3f4ab08d5f0354db1d2b57"
