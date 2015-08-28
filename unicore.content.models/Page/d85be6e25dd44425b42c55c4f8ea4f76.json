@@ -6,15 +6,19 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:10:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:10:02+00:00", 
+  "modified_at": "2015-08-28T09:19:43.009310+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d46d2aac23c94ef1a40f855fef44ff8b", 
+    "ac35989b42dc42fcae79b82091c0e339", 
+    "1c43dbd08dba476bb8be0b99e2e30092"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nUntuk bayi pertama Anda, pelahiran mungkin memakan waktu sekitar 8 jam. Tapi bisa juga lebih singkat atau lebih lama. Ini barangkali tidak akan mengambil lebih dari 18 jam. Kapan serviks (bukaan rahim Anda) telah dibuka sepenuhnya, Anda mungkin butuh mengejan selama 1 atau 2 jam sebelum bayi Anda lahir.\r\n\r\nJika Anda pernah beranak, pelahiran mungkin akan lebih cepat kali ini. Sekitar 5 jam adalah biasa. Ini barangkali tidak akan melebihi 12 jam. Anda mungkin hanya butuh mengejan selama 10 menit untuk melahirkan anak. Setiap pelahiran adalah berbeda, jadi meskipun Anda pernah beranak, Anda mungkin terkejut dengan betapa cepat, atau lambat, pelahiran kali ini.\r\n\r\nBangun dan terus bergerak, karena ini mungkin mempercepat segalanya.\r\n\r\nSetelah bayi lahir, tubuh Anda akan mendorong plasenta keluar. Ini sering memakan waktu 5 sampai 15 menit. Tetapi bisa juga mengambil sampai 1 jam.\r\n\r\nSangat sesekali, pelahiran bisa benar-benar cepat. Ini paling mungkin jika Anda pernah beranak. Adalah penting untuk mengikuti intuisi Anda supaya Anda tahu apa yang tubuh Anda memberitahu Anda, maka Anda bisa mendapatkan bantuan. Beberapa bayi tidak sabar!\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 51, 
+  "position": 103, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-long-will-labour-last", 
   "uuid": "d85be6e25dd44425b42c55c4f8ea4f76"
