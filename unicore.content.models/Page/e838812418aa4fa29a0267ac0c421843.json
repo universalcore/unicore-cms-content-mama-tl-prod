@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:25:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:25:27+00:00", 
+  "modified_at": "2015-08-28T09:20:03.478044+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "66d797819e3347009e6cb848713d8f76", 
+    "34b48ee22b3f4ab08d5f0354db1d2b57"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKeluarga Anda mungkin ingin Anda beranak lagi. Anda bisa menjelaskan bahwa bayi Anda yang berikutnya akan lebih sehat jika Anda menunggu setidaknya 2 tahun.\r\n\r\nJika ibu Anda sendiri memiliki anak-anak dengan jarak usia yang dekat, dia mungkin tidak memahami mengapa Anda ingin menunggu. Suami Anda juga mungkin ingin bayi lagi.\r\n\r\nAda 3 alasan mengapa adalah lebih baik untuk menunggu.\r\n\r\n -  Mengandung lagi sebelum bayi Anda berusia 2 tahun bisa meningkatkan risiko Anda. Tubuh Anda butuh memulih dari kelahiran sebelumnya.\r\n\r\n -  Menunggu 2 tahun juga menjaga kesehatan bayi Anda yang berikutnya. Jika Anda terlalu cepat hamil lagi, bayi yang akan datang akan lebih lemah atau awal.\r\n\r\n -  Menunggu memberikan Anda dan suami waktu untuk mencari uang. Anda bisa menghemat uang ini untuk penggunaan masa depan. Dengan cara ini, lebih mudah untuk Anda membeli barang yang dibutuhkan untuk menjaga kesehatan Anda dan bayi Anda.\r\n\r\nKeluarga Anda mungkin inginkan seorang adik bagi bayi Anda. Tetapi menunggu sampai bayi Anda berusia setidaknya 2 tahun akan memberikan keluarga yang lebih sehat dan bahagia. Dan memberi Anda waktu untuk menikmati bayi ini.\r\n\r\nJika Anda belum menggunakan metode perencanaan keluarga, kinilah waktu untuk memulai. Bicarakan dengan bidan Anda. Dia mungkin bisa menawarkan metode perencanaan keluarga secara gratis.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 31, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-when-have-my-next-baby", 
   "uuid": "e838812418aa4fa29a0267ac0c421843"
