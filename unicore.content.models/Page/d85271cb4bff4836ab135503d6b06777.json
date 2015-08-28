@@ -6,15 +6,21 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:46:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:46:35+00:00", 
+  "modified_at": "2015-08-28T09:19:53.520655+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ac500e31cddd4aa5945cd4eeef4f17b0", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "3a7850ed60b74de1815a5883890b7a3f", 
+    "830ae98b753e4a3fae4a2e90b304d85f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nCara terbaik untuk menghindari sawan selama kehamilan adalah dengan tes tekanan darah dan urin yang teratur. Anda bisa mendapatkan tes-tes ini dari bidan.\r\n\r\nSawan dalam kehamilan biasanya disebabkan oleh pra-eklampsia. Jika kakak atau ibu Anda mengalami pra-eklampsia, risiko Anda adalah tinggi. Anda juga lebih cenderung untuk mendapat pra-eklampsia jika Anda ada tekanan darah tinggi sebelum hamil atau jika Anda ada diabetes.\r\n\r\nAhli berpendapat bahwa Anda mendapat pra-eklampsia karena tubuh Anda tidak bisa mengandung bayi lagi. Jika ini terjadi, bayi harus dilahirkan lebih awal. Rumah sakit adalah tempat terbaik untuk membantu Anda untuk melahirkan bayi dengan selamat.\r\n\r\nTes-tes tekanan darah dan urin bisa mendeteksi masalah dengan lebih awal. Jadi cara terbaik untuk menghindari sawan adalah untuk berkunjung ke bidan secara teratur untuk dites. Tes teratur memantau kesehatan dan kemampuan tubuh Anda untuk mengandung bayi.\r\n\r\nBidan Anda mungkin menyarankan Anda mulai mengambil tablet kalsium ketika Anda hamil sekitar 4 bulan. Tablet kalsium bisa membantu mencegah masalah pada akhir kehamilan.\r\n\r\nKunjung ke bidan, atau ke fasilitas kesehatan dengan segera jika:\r\n\r\n -  penglihatan Anda kabur\r\n\r\n -  Anda mengalami sakit kepala yang parah\r\n\r\n -  muka, tangan dan kaki Anda tiba-tiba membengkak\r\n\r\nTanda-tanda ini mungkin berarti Anda mengalami pra-eklampsia dan mungkin diserang sawan jika Anda tidak mendapatkan bantuan dengan cepat.\r\n\r\n", 
   "source": null, 
@@ -22,7 +28,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 88, 
+  "position": 114, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-my-sister-had-fits", 
   "uuid": "d85271cb4bff4836ab135503d6b06777"
