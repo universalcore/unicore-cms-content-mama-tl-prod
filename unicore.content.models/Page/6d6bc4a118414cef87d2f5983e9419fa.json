@@ -6,15 +6,19 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:22:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:22:16+00:00", 
+  "modified_at": "2015-08-28T09:19:27.045098+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "74470394d0654f909a42e1945242874b", 
+    "07db02a5372d42a086f4992e09b8ddd3", 
+    "0da6542df13b487f9ac882c306294b0b"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKebanyakan bayi mendapatkan gigi pertama pada sekitar 6 bulan. Tapi bayi bisa mendapatkan gigi pertama kapan-kapan di antara 3 bulan sampai 1 tahun. Ia biasanya muncul di depan rahang bawah.\r\n\r\nJika gigi bayi Anda sedang tumbuh, Anda mungkin melihat tanda-tanda ini:\r\n\r\n -  gusinya merah dan bengkak dan wajah dan pipinya kemerahan\r\n\r\n -  air liurnya meleleh\r\n\r\n -  dia coba mengusap gusi dan telinga yang sama sebelah dengan gigi yang akan tumbuh\r\n\r\n -  dia terjaga pada tengah malam karena sakit gigi\r\n\r\nKapan bayi Anda berusia 2 tahun, dia harus memiliki set lengkap 20 gigi susu.\r\n\r\nBaik Anda mulai menyikat gigi bayi kapan ada yang muncul. Gunakan sikat gigi yang lembut dan sedikit pasta gigi, jika ada. Cobalah untuk membersihkan permukaan gigi bayi dan gusinya.\r\n\r\nBeberapa bayi tidak mau makan kapan gigi mereka sedang tumbuh. Kapan bayi Anda menghisap ketika menyusui atau makan, lebih banyak darah bergegas ke gusi bengkak. Gusi adalah sangat sensitif. Inilah mungkin alasannya mengapa dia berpaling dari payudara Anda.\r\n\r\nPertumbuhan gigi membuat bayi cepat marah dan resah. Buatlah apa yang bisa untuk menjaga dan menghiburnya.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 98, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-my-baby-getting-teeth", 
   "uuid": "6d6bc4a118414cef87d2f5983e9419fa"
