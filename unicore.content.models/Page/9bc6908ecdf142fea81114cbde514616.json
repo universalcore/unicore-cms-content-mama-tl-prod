@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2014-12-05T21:59:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T21:59:10+00:00", 
+  "modified_at": "2015-08-28T09:19:28.449711+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "05f9ac814d424b51b46f77db2a5a47d9", 
+    "6d18c870ea454553adea17b0eea0812a"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda semakin lebih fleksibel. Ia mungkin suka membuka dan menutup jari-jarinya, atau bertepuk tangan.\r\n\r\nRasa humor bayi Anda berkembang juga. Menggelitik atau ciuman bising di perutnya mungkin akan membuat ia tertawa.\r\n\r\nSejak lahir, bayi Anda suka disentuh. Ia sangat penting untuk pertumbuhan dan perkembangannya. Pijat setelah mandi atau pelukan yang menyenangkan sebelum tidur sangat bermanfaat bagi Anda berdua.\r\n\r\nBermain membantu otak bayi Anda berkembang. Semakin otaknya berkembang, sifat ingin tahunya juga semakin meningkat. Ia mungkin bermain dengan mainan kecil yang bisa dipegang dan dikocok. Ketika ini, ia juga sedang belajar tentang warna, bentuk dan ukuran. Ia juga belajar dari bunyi yang dibuat oleh sesuatu mainan dan dari perasaan lembut atau kerasnya.\r\n\r\nBayi Anda akan mulai ketawa dan senyum ketika Anda membuat wajah-wajah lucu dan ia akan suka berjenaka. Ia juga akan menikmati bunyi-bunyi yang berlainan. Buat bunyi klik dengan lidah Anda, bersiul atau buat suara-suara binatang. Ia pasti menyukainya.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 100, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "3monthsold_Indonesian_baby", 
   "uuid": "9bc6908ecdf142fea81114cbde514616"
