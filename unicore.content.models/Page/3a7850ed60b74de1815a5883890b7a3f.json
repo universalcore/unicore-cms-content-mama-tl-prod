@@ -6,15 +6,23 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:51:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:51:33+00:00", 
+  "modified_at": "2015-08-28T09:19:35.830329+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ac500e31cddd4aa5945cd4eeef4f17b0", 
+    "700c77b0c65540af9ceb930d2a7e5381", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "ffda8646f7d34861a11401c6667b930a", 
+    "830ae98b753e4a3fae4a2e90b304d85f", 
+    "0f0b30cbc3f748bbafe963f040e5fd6c"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nTubuh Anda berubah dalam berbagai cara dalam kehamilan, dan memang biasa untuk bertanya-tanya jika Anda butuh khawatir tentang perubahan ini.\r\n\r\n**Ini adalah normal** Apakah Anda tiba-tiba lelah, tiba-tiba tidak, rasa mual kapan bangun pagi, makanan tak dicerna, kencing lebih sering, kulit berubah? Rasa sesak napas? Selamat datang ke kehamilan!\r\n\r\n**Berikut adalah tanda-tanda peringatan** Berkunjung ke bidan jika Anda mengalami:\r\n\r\n -  Nyeri pada perut Anda\r\n\r\n -  Demam\r\n\r\n -  Penglihatan kabur dan Anda melihat bercak di depan mata\r\n\r\n -  Cairan meleleh dari vagina Anda\r\n\r\n -  Nyeri saat kencing\r\n\r\n -  Anda sudah hamil lebih 5 bulan, dan bayi Anda berhenti menendang atau banyak kurang menendang\r\n\r\n -  Anda mengalami pendarahan berat atau pendarahan dengan rasa nyeri.\r\n\r\n", 
   "source": null, 
@@ -22,7 +30,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 82, 
+  "position": 153, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-warning-signs", 
   "uuid": "3a7850ed60b74de1815a5883890b7a3f"
