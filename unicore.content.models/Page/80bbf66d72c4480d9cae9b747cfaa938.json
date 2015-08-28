@@ -6,15 +6,22 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:04:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:04:02+00:00", 
+  "modified_at": "2015-08-28T09:19:59.002395+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "88b816bdc84f4ce3a4c1213839243c47", 
+    "7a440ab638f545e5bb5d5080c30ccfdd", 
+    "f323d6a0dc5441aa86684912d9d49701", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "d4039d6be1c94aefa9ead8aa205e0800", 
+    "e877846ff5f349099cfa6d1c953fc033"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nMineral membantu Anda menjaga kesehatan dan mengandung bayi yang sehat. Jika Anda mengkonsumsi makanan dari 4 kelompok utama yang berikut, Anda akan mendapatkan mineral yang dibutuhkan.\r\n\r\n -  Buah-buahan dan sayuran. Buah-buahan dan sayuran yang berbeda warna akan memberi Anda banyak kebaikan.\r\n\r\n -  Makanan bertepung yang mengenyangkan, seperti nasi dan kentang. Berdasarkan sajian Anda sekitar makanan bertepung. Ini akan memberi Anda banyak energi.\r\n\r\n -  Makanan yang kaya dengan protein, seperti tahu, telur, ikan, ayam dan daging. Makanan ini juga merupakan sumber baik zat besi. Mereka akan membantu Anda tetap kuat.\r\n\r\n -  Makanan yang kaya kalsium seperti susu kedelai, santan dan tahu.\r\n\r\nMenambahkan garam beryodium ke dalam makanan Anda akan memberikan Anda yodium. Jika garam mengandungi yodium, ia akan berkata begitu pada paket bungkusannya. Anda membutuhkan banyak yodium dalam diet Anda untuk membantu otak bayi Anda berkembang. Coba untuk mendapatkan sedikit setiap hari.\r\n\r\nDengan mengkonsumsi berbagai makanan ini, Anda akan tetap sehat dan kuat, serta mengandung bayi yang sehat.\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 60, 
+  "position": 72, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-do-i-need-minerals", 
   "uuid": "80bbf66d72c4480d9cae9b747cfaa938"
