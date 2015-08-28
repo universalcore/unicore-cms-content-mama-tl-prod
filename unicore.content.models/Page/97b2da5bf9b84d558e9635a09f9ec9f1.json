@@ -1,0 +1,32 @@
+{
+  "subtitle": "O seu beb\u00e9 consegue entender palavras!", 
+  "description": "", 
+  "language": "por_PT", 
+  "title": "10 meses de idade", 
+  "primary_category": "44fe51abce3f4d3ab3b60cde2bc76288", 
+  "created_at": "2014-12-10T10:56:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-10T15:28:24.654972+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [
+    "bc19dbebe27f42e0b2938f95fe36ded3", 
+    "d2b9d122ec8d460c940ff6d510b5374a"
+  ], 
+  "id": null, 
+  "content": "Criado pelo BabyCenter\r\n\r\nO seu beb\u00e9 come\u00e7a a compreender palavras e frases simples. Tente repetir as suas palavras de volta usando linguagem de adulto. \r\n\r\nLentamente, ele ir\u00e1 aprender a ser independente, e ir\u00e1 chorar menos quando o deixa.  Mas, por vezes, quando o deixa as coisas correm mal e haver\u00e1 l\u00e1grimas! Caso ele tenha algo com o seu cheiro, como por exemplo roupas que tenha usado, isso ir\u00e1 ajud\u00e1-lo a acalmar-se.  \r\n\t\r\nNesta idade, o seu beb\u00e9 pode se sentar com confian\u00e7a e pode andar agarrado \u00e0 mob\u00edlia. Ele pode at\u00e9 soltar-se um segundo e ficar em p\u00e9 sem apoio, ou mesmo dar alguns passos se segurar nas suas m\u00e3os.\r\n\r\nPor volta desta idade, o seu beb\u00e9 ir\u00e1 aprender a alimentar-se sozinha \u00e0 m\u00e3o durante uma refei\u00e7\u00e3o completa. Ele vai querer beber a partir de um copo. Esta \u00e9 uma nova aptid\u00e3o, e ele precisar\u00e1 de alguma pr\u00e1tica durante alguns meses para aprender como fazer.\r\n\r\nO seu beb\u00e9 agora consegue compreender instru\u00e7\u00f5es simples. Mas isto n\u00e3o significa que ele ir\u00e1 sempre prestar aten\u00e7\u00e3o \u00e0 palavra \"n\u00e3o\"! Ele compreender\u00e1 melhor \"n\u00e3o\" se for utilizado principalmente para o ajudar a compreender a diferen\u00e7a entre o certo e o errado, e entre o seguro e o perigoso.\r\n", 
+  "source": "3f7b0961e454472e93b956b95d1240de", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "10monthsold_por_baby_Angola", 
+  "uuid": "97b2da5bf9b84d558e9635a09f9ec9f1"
+}
