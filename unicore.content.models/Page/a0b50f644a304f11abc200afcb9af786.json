@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:26:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:26:44+00:00", 
+  "modified_at": "2015-08-28T09:19:40.392717+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "71fe00431674433d867d0e0693b7bcba", 
+    "302c97b3492d4f7fa6370c8d92d393b1"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nSemua bayi menangis. Ini adalah cara mereka memberitahu kita apa yang mereka butuhkan, atau berkomunikasi. Ada yang menangis lebih dari yang lain.\r\n\r\nKemungkinan besar bayi Anda menangis karena dia lapar. Jadi, jika dia menangis, bagi dia menyusu selama dia mau. Dia akan tenang kapan perutnya diisi.\r\n\r\nBeberapa bayi menangis jika mereka merasa tidak nyaman. Lihat jika pakaian bayi Anda terlalu ketat, atau jika popoknya kotor.\r\n\r\nBayi Anda mungkin juga merasa terlalu panas atau terlalu dingin. Hitung berapa lapisan pakaiannya. Dia harus cukup nyaman dengan 1 lapisan pakaian yang lebih dari Anda.\r\n\r\nBayi Anda mungkin juga hanya ingin bersantai atau didekap.\r\n\r\nBerikut adalah 3 cara untuk menenangkan bayi Anda yang menangis:\r\n\r\n -  **Bedong dia dengan selimut.** Bayi suka merasa nyaman dan aman seperti yang mereka rasakan di dalam rahim.\r\n\r\n -  **Peluk dia erat dalam gendong.** Irama detak jantung Anda bisa menenangkan dia.\r\n\r\n -  **Menyanyi kepadanya** atau buaikan dengan perlahan.\r\n\r\nJika bayi Anda tidak berhenti menangis, atau tangisannya lebih nyaring dari biasa, bawanya berjumpa bidan Anda.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 30, 
+  "position": 89, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-does-my-baby-cry", 
   "uuid": "a0b50f644a304f11abc200afcb9af786"
