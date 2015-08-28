@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Clean, safe water", 
+  "description": "Bagaimana saya membersihkan air?", 
+  "language": "ind_ID", 
+  "title": "Air yang bersih dan aman", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T09:59:04+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T09:59:04+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nAdalah sangat penting untuk minum dan menggunakan air bersih saat hamil. Air memelihara kesehatan Anda, dan bisa membantu untuk membuang kuman di dalam tubuh Anda.\r\n\r\nKadang-kadang, air tampak bersih, tetapi ada kuman yang tidak bisa dilihat, yang bisa membuat Anda dan bayi Anda sakit parah. Siapkan air bersih setiap pagi supaya Anda tidak butuh menggunakan air kotor.\r\n\r\nJika tidak ada air bersih di mana Anda tinggal, Anda bisa membersihkan air. Filter air dengan kain katun yang bersih, dan kemudian masakkan. Ini membunuh kuman. Air hangat yang sudah dimasak adalah aman untuk diminum. Masak satu ember besar air untuk penggunaan sehari. Tutup dan simpan di tempat yang dingin, supaya lalat dan kotoran tidak mencemarinya.\r\n\r\nJika Anda tidak bisa memfilter dan memasak air, tanya bidan tentang cara-cara lain untuk membuat air Anda aman untuk diminum.\r\n\r\nMembeli air botol biasanya bersih dan aman. Selalu periksa bahwa penutup botol itu tidak rusak. Penutup yang rusak berarti botol itu pernah dibuka. Ini mungkin diisi kembali dengan air kotor, jadi jangan minum.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 69, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-clean-safe-water", 
+  "uuid": "0ea17e711d394853b5250f906189a9fe"
+}
