@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Do I need to eat more?", 
+  "description": "Tambah porsi untuk mengandung bayi yang sehat", 
+  "language": "ind_ID", 
+  "title": "Butuhkah saya tambah porsi?", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T10:00:32+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T10:00:32+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nPeraturan yang paling senang diingat adalah untuk makan kapan lapar. Cobalah untuk konsumsi campuran makanan yang berbeda warna setiap hari dan Anda akan menambah berat badan dengan mantap sesuai dengan perkembangan bayi.\r\n\r\nAnda mungkin mendapati bahwa nafsu makan Anda berubah selama kehamilan:\r\n\r\n -  Dalam beberapa minggu pertama, nafsu makan Anda berkurang dan Anda mungkin tidak ingin makan hidangan lengkap, terutama jika Anda mual atau muntah.\r\n\r\n -  Pada pertengahan kehamilan Anda, nafsu makan Anda mungkin sama dengan sebelum Anda hamil atau bertambah sedikit.\r\n\r\n -  Menjelang akhir kehamilan, nafsu makan Anda akan bertambah. Makan buah-buahan, sayuran, dan tempeh, kacang, telur dan daging. Jelaskan kepada keluarga Anda bahwa Anda butuh tambah porsi untuk bayi Anda. Tanya jika Anda bisa membeli lebih banyak makanan ini. Anda butuhkan segenggam makanan tambahan pada setiap hidangan. Anda juga mungkin membutuhkan camilan di antara waktu makan.\r\n\r\nAnda mungkin mulai mengidam makanan tertentu. Beberapa wanita hamil mengidamkan yang bukan-bukan seperti tanah. Tanah atau lain-lain yang bukan makanan bisa membahayakan Anda dan bayi Anda. Jangan makan. Tanah bisa menyebabkan sembelit atau jangkitan cacing.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 66, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-do-i-need-eat-more", 
+  "uuid": "8c55cebb9abf4e78985fc6898c2db32b"
+}
