@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:58:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:58:08+00:00", 
+  "modified_at": "2015-08-28T09:19:24.443699+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "31d600d579ef489e83b83dc83e741467"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nTeman dan keluarga mungkin menawarkan obat atau tonik atau menyarankan Anda berkunjung ke dukun. Mungkin Anda ada menggunakannya pada masa lalu tetapi sekarang Anda hamil Anda butuh berhati-hati tentang obat yang diambil.\r\n\r\nSaat hamil, dan kapan Anda sedang menyusui, beberapa obat dan tonik mungkin membahayakan bayi Anda.\r\n\r\nTanya bidan Anda dulu sebelum mengambil obat itu. Dia akan memberitahu Anda yang mana adalah aman untuk Anda dan bayi Anda.\r\n\r\nSatu lagi hal yang butuh diingat adalah untuk tidak menggunakan jamu kehamilan, yang mungkin mengandungi alkohol, jadi tidak baik untuk Anda! Ianya tidak aman untuk Anda dan bayi Anda.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 71, 
+  "position": 173, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-can-i-use-traditional-remedies", 
   "uuid": "f65cd6a14d7c4ef19f65f54cde04fd97"
