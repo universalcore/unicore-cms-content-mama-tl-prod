@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2014-12-05T21:42:40+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T21:42:40+00:00", 
+  "modified_at": "2015-08-28T09:19:22.664957+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ba56b2efaefb4f4d988397fc136b541c", 
+    "c0b08815380c42d083444e7d405fe9f5"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda mungkin bersiap-siap untuk dilahirkan. Kebanyakan bayi sudah menurunkan kepala sekitar sekarang. Anda mungkin menyadari bahwa bayi Anda turun ke dalam panggul. Ini membuatkan Anda lebih mudah untuk bernapas, tetapi juga berarti bahwa Anda butuh buang air kecil dengan lebih sering! \r\n\r\nMungkin ada pembengkakan di bagian perut bawah, antara kaki, di mana Anda bisa merasakan kepala bayi. Beristirahatlah dengan kaki di atas bantal sebisanya, untuk mengurangi pembengkakan. \r\n\r\nSemua organ internal bayi Anda sudah sempurna sekarang. Di dalam rahim Anda, ia menelan cairan dan kemudian mengeluarkannya. Paru-parunya sudah sempurna dan siap untuk mengambil napas pertamanya. \r\n\r\nCobalah untuk beristirahat setiap hari dan berpikir tentang bayi Anda. Tidak lama lagi Anda akan bisa bertemu. Ia akan mengenali suara Anda ketika Anda mengatakan hi kepadanya untuk pertama kalinya! \r\n\r\nSang bayi tidak banyak membuat gerakan besar sekarang karena sempitnya ruangan di dalam rahim. Tapi tendangan bayi harus kerap terasa. Jika Anda tidak yakin, duduk tenang setelah makan, dan perhatikan berapa sering ia menendang. Jika Anda tidak merasakan beberapa tendangan, jumpailah petugas kesehatan.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 108, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month8_Indonesian_pregnancy", 
   "uuid": "c7a6db186e0d4826a2f8d3a707255801"
