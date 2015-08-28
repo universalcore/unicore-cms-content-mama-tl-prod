@@ -6,15 +6,19 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:44:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:44:57+00:00", 
+  "modified_at": "2015-08-28T09:19:39.983425+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0ea17e711d394853b5250f906189a9fe", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "3a7850ed60b74de1815a5883890b7a3f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nBayi Anda tumbuh di dalam tubuh Anda, di atas kandung kemih Anda (di mana urin Anda mengumpul). Berat badan bayi menghimpit kandung kemih, yang menyebabkan Anda harus kencing dengan lebih sering. Ini adalah hal biasa dalam kehamilan. Jangan kurangi jumlah air bersih dan aman yang Anda minum. Anda membutuhkannya untuk tetap sehat.\r\n\r\nJika Anda rasa nyeri saat kencing, Anda mungkin ada infeksi. Ini bisa menyebabkan suhu tubuh yang tinggi, atau membuat Anda tiba-tiba merasa panas dan dingin. Tanda-tanda infeksi yang lain adalah darah dalam urin Anda, rasa tidak sehat dan menggigil. Seks mungkin menyakitkan juga.\r\n\r\nPengobatan adalah sangat penting, jadi kunjungilah bidan. Kuman dalam urin Anda bisa menyebabkan infeksi ginjal, yang serius bagi kesehatan Anda dan bayi.\r\n\r\nAnda juga bisa membantu untuk mencegah infeksi urin.\r\n\r\n -  Setelah ke toilet, selalu lap dari 'depan' ke 'belakang', atau tuangkan air dari depan ke belakang, atau cuci dengan sabun.\r\n\r\n -  Minum banyak air yang bersih dan aman. Ini akan membantu untuk menghilangkan infeksi.\r\n\r\n -  Jika Anda harus kencing, pergi! Jangan tunggu.\r\n\r\n -  Selalu kencing setelah seks, jika Anda bisa, untuk mengusir kuman.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 91, 
+  "position": 151, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-it-hurts-when-i-urinate", 
   "uuid": "9cbf5c028db44e28a4f4733e3545e361"
