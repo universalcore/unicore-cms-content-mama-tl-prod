@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2014-12-05T22:11:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T22:11:53+00:00", 
+  "modified_at": "2015-08-28T09:19:58.614447+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "833a65a0f7d64964853023ce2033015a", 
+    "5833f6ff73ff43faa2385014efb10394"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda sudah membiasakan diri dengan persekitarannya dan ia suka perkara-perkara yang dia sudah biasa. Pada usia ini, ia mungkin mahu melekat saja pada Anda dan butuh banyak perhatian. Ia mungkin lebih tenang jika ia bisa membawa selimut atau mainan favorit dengannya, supaya ada sesuatu yang mengingatkan ia pada ruangan sendiri ketika ia keluar. Masa yang tenang jauh dari kebisingan dan orang asing juga akan membantunya untuk menyesuaikan diri.\r\n\r\nSekarang, bayi Anda ingat hal-hal, seperti di mana mainannya disimpan. Ia juga dapat meniru tindakan yang dilihatnya walaupun ia berlaku dua minggu yang lalu. Tapi ia masih belum bisa ingat segalanya. Memori kekal bayi Anda mungkin tidak berkembang sehingga ia berusia dua atau tiga tahun.\r\n\r\nOcehan bayi Anda mungkin mula terdengar seperti kata-kata nyata. Bayi Anda pikir dia mengatakan sesuatu, jadi respon seperti ia benar-benar begitu! Ia akan belajar tentang percakapan dan riak wajah dari Anda ketika Anda berbicara dengannya dan melihatnya.\r\n\r\nBayi Anda masih memahami lebih dari nada suara Anda daripada dari kata-kata Anda. Dia tahu kapan ia telah membuat Anda bahagia, jadi berikan banyak pujian.\r\n\r\nKepribadian bayi Anda benar-benar keluar sekarang. Ia mungkin bergaul dan senyum pada semua orang yang ditemuinya, atau ia mungkin malu dan menyembunyikan mukanya. Bayi Anda tahu bagaimana untuk mendapatkan perhatian Anda, dan ia mungkin melambaikan tangan ketika ia melihat Anda pergi ke pintu.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "9monthsold_Indonesian_baby", 
   "uuid": "7d11080f0081425cb1c36ee4eb89cf20"
