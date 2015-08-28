@@ -6,15 +6,19 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:10:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:10:26+00:00", 
+  "modified_at": "2015-08-28T09:19:21.298371+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3b744931527f4e6987c3b97516e9f76e", 
+    "689f4a0c9a9840fa91d7b7ba4ba0ae08", 
+    "d85be6e25dd44425b42c55c4f8ea4f76"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nSaat pelahiran, kontraksi menjadi lebih panjang dan teratur.\r\n\r\nIni adalah fase pelahiran kuat dan aktif. Kontraksi membukakan serviks Anda dengan lebih cepat, tersedia untuk bayi Anda melewatinya. Barangkali Anda tidak bisa berbicara kapan kontraksi datang, atau bertatap mata atau senyum. Anda akan butuh menghentikan apa-apa yang Anda sedang lakukan, mengerekot atau berlutut dan fokus sepenuhnya untuk menghadapi kontraksi itu. Setiap satu bisa membuat Anda berkeringat dan Anda mungkin membuat bunyi-bunyi mengerang.\r\n\r\nKontraksi mungkin bisa datang sesering setiap 3 sampai 4 menit, untuk 60 sampai 90 detik. Antara kontraksi, coba bergerak dan menyamankan diri, minum air dan chatting dengan orang di sekeliling Anda.\r\n\r\nKenali tubuh Anda dan coba posisi yang berbeda untuk tetap nyaman.\r\n\r\nBuang air kecil dengan sering.\r\n\r\nJika Anda bisa, cuci dengan air yang hangat, bersih dan aman, atau mandi dengan air panas untuk meredakan nyeri.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 50, 
+  "position": 161, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-your-baby-coming-now", 
   "uuid": "97a5baccd4d443f181a89e62c96bc4c2"
