@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2014-12-05T21:57:19+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-05T21:57:19+00:00", 
+  "modified_at": "2015-08-28T09:19:20.597497+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "9bc6908ecdf142fea81114cbde514616", 
+    "d92edeb511d747e2831488fbca2fe3cb"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda sudah jauh lebih kuat sekarang. Ia mungkin bisa mengangkat kepalanya untuk beberapa detik.\r\n\r\nKawalan fokus matanya lebih baik sekarang dan penglihatannya membaik. Anda mungkin memerhatikan bayi merenung tangannya sendiri. Ia mulai mengarti bahwa itu adalah tangannya yang bisa digunakannya. Tidak lama lagi, ia akan coba menggenggam sesuatu. Ia juga bisa mendengar dengan lebih baik, dan paham dari mana sesuatu bunyi berasal. Anda mungkin melihat ia menoleh ke arah bunyi itu.\r\n\r\nSekitar sekarang, bayi Anda akan bangun lebih lama di siang hari, dan memiliki waktu yang pasti kapan ia ingin bermain. Ia mulai bisa membedakan siang dan malam.\r\n\r\nTidak lama lagi, ia akan mulai meregangkan lengan dan kakinya. Berikan bayi Anda cukup ruang untuk meregang. Letakkan selimut di lantai dan biarkan ia bergerak di atasnya. Jika ia tengkurap, ia mungkin mulai menekan lantai dengan kakinya. Ini membantu untuk menguatkan otot-ototnya yang sedang berkembang.\r\n\r\nAnda mungkin pikir bayi Anda terlalu muda untuk menyanyi atau berbicara dengannya, tapi adalah ide yang baik jika Anda melakukannya. Mendengar Anda menyanyi atau berbicara dengannya akan membantu proses belajar bicara.\r\n\r\nJika ia menoleh ke arah lain atau kehilangan minat saat Anda menyanyi atau berbicara dengannya, coba sesuatu yang lain atau berinya waktu untuk beristirahat.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 123, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "2monthsold_Indonesian_baby", 
   "uuid": "6d18c870ea454553adea17b0eea0812a"
