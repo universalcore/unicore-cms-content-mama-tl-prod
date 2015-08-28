@@ -6,15 +6,19 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:14:52+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:14:52+00:00", 
+  "modified_at": "2015-08-28T09:19:15.499217+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "240388a7fb154fafa3c500e2ed7948b1", 
+    "55dc5b8287e04da187fa63d487493d7e", 
+    "07db02a5372d42a086f4992e09b8ddd3"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnak-anak laki-laki dan perempuan membutuhkan jumlah makanan yang sama.\r\n\r\nUntuk 6 bulan pertama, bayi Anda hanya membutuhkan air susu ibu (ASI) Anda. Kemudian, Anda bisa perlahan-lahan meningkatkan jumlah makanan yang diberikan kepada bayi. Dia masih membutuhkan ASI Anda sehingga dia berumur 2 tahun.\r\n\r\nDi sini adalah bagaimana untuk perlahan menambah jumlah makanannya:\r\n\r\n**Usia 6 bulan:** ASI masih merupakan makanan utama bayi Anda, tapi sekarang dia bisa mulai makanan lain. Berikan bayi Anda makanan keluarga yang dilecek dua kali sehari. 2 sendok cukup untuk setiap hidangan. Anda bisa memberi bayi Anda makanan yang dikonsumsi oleh Anda dan keluarga tetapi pastikan Anda lecekkan dengan baik. Jangan tambah garam dalam makanan bayi Anda.\r\n\r\n**Usia 8 bulan:** Bayi Anda butuh makan 3 kali sehari. Perlahan-lahan tingkatkan jumlah makanan pada setiap hidangan, kepada sekitar 3 sendok.\r\n\r\n**Usia 9 bulan:** Pada saat ini, salah satu sajiannya harus ditambahkan sehingga mengisi setengah mangkuk. Untuk 2 hidangan yang lain, kekalkan porsi pada lebih kurang 3 sendok. Sekarang dia akan bisa memegang makanan dengan tangannya. Berikannya potongan kecil makanan untuk digenggam.\r\n\r\n**Usia 10 bulan:** Berikan bayi Anda 2 setengah mangkuk makanan sehari. Untuk hidangan lain, dia hanya masih membutuhkan beberapa sendok.\r\n\r\n**1 tahun:** Dia akan membutuhkan 3 atau 4 setengah mangkuk makanan sehari, dengan camilan. Pada tahun depan, perlahan isi mangkuk sampai penuh.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 15, 
+  "position": 142, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-much-food-my-baby", 
   "uuid": "1792e4cc070145e18eaa9db11343d74e"
