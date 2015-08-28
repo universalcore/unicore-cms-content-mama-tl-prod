@@ -6,15 +6,21 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:23:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:23:49+00:00", 
+  "modified_at": "2015-08-28T09:19:48.202015+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e838812418aa4fa29a0267ac0c421843", 
+    "9382f9c116744bf890b5ccb2bc7e3292", 
+    "34b48ee22b3f4ab08d5f0354db1d2b57", 
+    "c392fd66d41d4acd942cc054112c675f", 
+    "406ffd39de864cc0952c55c3e60400e9"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAdalah baik, dan meyakinkan, untuk mendapatkan tes kesehatan dalam beberapa minggu setelah bayi Anda lahir, untuk memastikan Anda dan bayi Anda OK.\r\n\r\nBerkunjung ke bidan dengan bayi Anda setidaknya sekali pada minggu 1 dan sekali lagi ketika dia berusia 6 minggu.\r\n\r\nBawa bayi Anda ke bidan dengan segera jika:\r\n\r\n -  Perutnya terlalu dingin atau terlalu panas\r\n\r\n -  Mata, tangan dan kakinya nampak kuning pada hari-hari pertama\r\n\r\n -  Dia enggan menyusui atau lemah menghisap\r\n\r\n -  Dia tidak berhenti menangis atau jika tangisannya luar biasa\r\n\r\n -  Dia diserang sawan, terlalu mengantuk dan tidak banyak bergerak, atau kulit atau kukunya nampak kebiruan\r\n\r\n -  Dia mengi, mendengus, atau bernapas dengan cepat\r\n\r\n -  Dia muntah setiap kali menyusui untuk lebih dari sehari, atau perutnya kembung\r\n\r\n -  Area di sekitar sisa tali pusatnya merah atau berbau\r\n\r\nIni adalah tanda-tanda bahwa bayi Anda kurang sehat, dan membutuhkan perawatan segera.\r\n\r\nIngat, anak-anak lelaki dan perempuan membutuhkan jumlah pemeriksaan yang sama.\r\n\r\n", 
   "source": null, 
@@ -22,7 +28,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 34, 
+  "position": 73, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-check-ups-after-birth", 
   "uuid": "66d797819e3347009e6cb848713d8f76"
