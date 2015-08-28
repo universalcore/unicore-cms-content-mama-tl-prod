@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2014-12-05T21:38:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-05T21:38:00+00:00", 
+  "modified_at": "2015-08-28T09:19:16.222554+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "950803d300294a61b035edc52687db2e", 
+    "7e6775395d974eb7b74790464720a2e3"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nSekarang bayi dalam rahim Anda kelihatan seperti bayi yang baru lahir tetapi lebih kecil. Perkembangan mata, alis dan kelopak matanya sudah sempurna dan giginya sedang tumbuh di bawah gusinya. Tunas pengecap di lidahnya berkembang. Ia akan dapat mencicipi susu Anda dari kali pertama ia menyusui. \r\n\r\nKulitnya diliputi bahan putih berkrem. Ia melindungi kulit bayi Anda dan membantu dengan kelahiran. \r\n\r\nSekitar masa ini, Anda mungkin mulai merasa pergerakan bayi Anda. Rasanya seperti gelembung kecil di dalam tubuh Anda. Pada mulanya, Anda mungkin tidak yakin apa itu. Secara bertahap, pergerakan itu menjadi lebih kuat sehingga Anda dapat yakin bahwa itu adalah bayi Anda menendang. Ini adalah saat yang menyenangkan sekaligus menegangkan! \r\n\r\nAnda juga mungkin mulai rasa sesak napas sekarang dan mungkin terasa canggung. Ini karena berat badan Anda semakin bertambah dan perut Anda memberi kesan ke atas keseimbangan Anda. \r\n\r\nAnda mungkin mendapati daerah kewanitaan menjadi lebih basah dan juga lebih sering ingin buang air kecil. \r\n\r\nJika Anda melihat darah ketika membersih gigi, itu karena hormon kehamilan Anda membuat gusi Anda bengkak dan sakit, yang dapat menyebabkan perdarahan. Terus bersihkan setiap hari, tapi dengan lebih lembut.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 129, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month5_Indonesian_pregnancy", 
   "uuid": "1d179c8b79b54a0e90eaa3fafffc5783"
