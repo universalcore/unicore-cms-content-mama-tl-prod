@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:56:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:56:32+00:00", 
+  "modified_at": "2015-08-28T09:19:52.569787+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "31d600d579ef489e83b83dc83e741467"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nTetanus adalah penyakit yang serius dan berbahaya untuk wanita hamil dan bayi yang baru lahir. Anda butuh mendapatkan pelaliannya supaya Anda dan bayi Anda tidak dijangkiti tetanus.\r\n\r\nAnda bisa dijangkiti tetanus melalui luka atau lecur. Melahirkan meningkatkan risiko Anda dan bayi mendapat tetanus. Vaksin tetanus bisa melindungi Anda berdua.\r\n\r\nAnda bisa mendapatkan vaksin tetanus di fasilitas kesehatan. Tanya bidan Anda. Anda butuh 1 suntikan pada kunjungan pertama dan satu lagi setidaknya satu bulan kemudian.\r\n\r\nAnda akan mendapat vaksinasi ini melalui suntikan. Lengan Anda mungkin sedikit merah dan bengkak di mana jarum dimasukkan. Anda mungkin merasa agak kurang sehat, tetapi ia tidak akan bertahan lama. Letak sesuatu yang dingin pada lengan Anda, jika area itu rasa nyeri, dan beristirahat.\r\n\r\nVaksinasi akan melindungi Anda dari kuman, tetapi tidak jika Anda sudah mengidap penyakit itu. Jadi dapatkan vaksinasi ketika Anda tidak sakit. Jangan tunggu sampai Anda jatuh sakit karena itu sudah terlambat dan vaksinasi tidak akan membantu.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 73, 
+  "position": 100, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-have-tetanus-vaccination", 
   "uuid": "cf3b4113656743f79512b2dd580e66ac"
