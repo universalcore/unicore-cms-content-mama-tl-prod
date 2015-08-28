@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Danger signs at the birth ", 
+  "description": "Kapan Anda membutuhkan bantuan", 
+  "language": "ind_ID", 
+  "title": "Tanda-tanda bahaya saat pelahiran", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T10:11:49+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T10:11:49+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nJika Anda mendapati mana-mana hal ini terjadi, cepat ke bidan atau fasilitas kesehatan.\r\n\r\n**Anda:**\r\n\r\n -  Jika air ketuban Anda sudah pecah tetapi pelahiran masih belum dimulai setelah 6 jam\r\n\r\n -  Anda sudah menghadapi kontraksi selama lebih 12 jam, tetapi bayi masih belum datang\r\n\r\n -  Anda mengalami pendarahan yang parah dan menggunakan 2 sampai 3 pad dalam 15 menit\r\n\r\n -  Plasenta (uri) Anda belum keluar, dan telah 1 jam setelah kelahiran bayi Anda\r\n\r\n**Bayi Anda:**\r\n\r\n -  Bayi Anda tidak menangis kapan lahir, atau mengalami kesulitan bernapas\r\n\r\n -  Bayi Anda tidak mampu menyusui\r\n\r\n -  Bayi Anda demam, atau terasa dingin\r\n\r\n -  Bayi Anda sangat kecil (kurang dari 1500 gram atau dilahirkan lebih awal dari 32 minggu)\r\n\r\n -  Bayi Anda diserang sawan\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 48, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-danger-signs-birth", 
+  "uuid": "3b744931527f4e6987c3b97516e9f76e"
+}
