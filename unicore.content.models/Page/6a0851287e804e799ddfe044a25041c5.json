@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:08:22+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:08:22+00:00", 
+  "modified_at": "2015-08-28T09:19:20.317404+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6c629ce782df47d085127e880a2c3fe7", 
+    "9854722edaab4724a116688c6891e757"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika Anda hidup dengan HIV, banyak yang bisa Anda lakukan untuk melindungi bayi Anda dari terinfeksi HIV.\r\n\r\nSaat hamil, makan obat antiretroviral (ARV) Anda dan pergi ke klinik untuk pemeriksaan secara berkala.\r\n\r\nKetika persalinan dimulai, langsung ke fasilitas kesehatan. Anda membutuhkan perawatan ekstra pada tahap awal persalinan untuk menghindari virus HIV menular kepada bayi Anda.\r\n\r\nKapan bayi sudah sampai, baik untuknya jika Anda menyusui dan, pada saat yang sama, Anda berdua mengambil obat ARV. Ketika Anda makan obat ARV, ia akan membuat air susu ibu (ASI) Anda aman untuk bayi Anda.\r\n\r\nBayi Anda membutuhkan satu dosis sirup ARV setiap hari untuk 4 sampai 6 minggu pasca kelahiran, untuk melindunginya dari HIV. Bayi Anda akan membutuhkan tes darah di klinik pada sekitar 6 minggu untuk memeriksa jika virus HIV telah menjangkitnya.\r\n\r\nPastikan Anda menyentuh bayi dengan tangan yang bersih. Tutup semua luka dengan perban sehingga sembuh.\r\n\r\nHIV adalah penyakit jangka panjang. Dengan obat yang tepat, Anda bisa menangani dan mengawalnya.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 20, 
+  "position": 134, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-hiv-how-do-i-protect-him", 
   "uuid": "6a0851287e804e799ddfe044a25041c5"
