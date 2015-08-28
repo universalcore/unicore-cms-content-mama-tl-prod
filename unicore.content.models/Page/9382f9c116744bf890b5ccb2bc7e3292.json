@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Eat more food now!", 
+  "description": "Anda membutuhkan makanan untuk energi kapan menyusui", 
+  "language": "ind_ID", 
+  "title": "Tambah porsi makanan sekarang!", 
+  "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
+  "created_at": "2015-03-26T10:23:19+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T10:23:19+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nMenyusui bisa membuat Anda sangat lapar! Anda butuh makan lebih banyak dari biasa. Tubuh Anda sangat pandai membuat air susu ibu (ASI), tetapi jika Anda tidak makan secukupnya Anda mungkin merasa letih dan lelah.\r\n\r\nCobalah tambah porsi buah-buahan dan sayuran segar seperti daun kubis, bayam, brokoli, jamur, jambu batu, keladi, mangga, pepaya dan nangka. Konsumsi makanan yang berbagai warna, supaya Anda mendapat banyak vitamin dan mineral. Konsumsi makanan yang memberi energi seperti nasi, mi dan kentang. Makan protein yang ada dalam telur, tahu, ikan, ayam dan daging. Coba minum susu kedelai, santan atau makan kacang setiap hari. Konsumsi berbagai makanan, dan tubuh Anda akan mendapat segala yang dibutuhkan untuk menyusui bayi Anda dengan baik.\r\n\r\nCobalah makan 3 hidangan utama pada waktu yang tetap setiap hari. Makan banyak camilan sepanjang hari, untuk meningkatkan energi. Camilan yang baik adalah buah-buahan kering, kacang, buah-buahan segar dan sayuran dan biji.\r\n\r\nMenyusui bisa membuat Anda haus. Minum sebelum Anda menyusui bayi. Air yang bersih dan aman adalah baik. Anda tidak butuh minum susu untuk membuat susu, tetapi Anda harus minum banyak air yang bersih dan aman. Jangan minum terlalu banyak kopi, cola atau minuman bersoda. Hanya 1 atau 2 gelas minuman ini dalam sehari adalah cukup.\r\n\r\nJika Anda tidak ada nafsu makan, ia mungkin tanda bahwa Anda membutuhkan bantuan tambahan. Jika Anda merasa susah untuk makan, dan Anda harus memaksa diri, berbicara dengan bidan Anda.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 35, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-eat-more-food-now", 
+  "uuid": "9382f9c116744bf890b5ccb2bc7e3292"
+}
