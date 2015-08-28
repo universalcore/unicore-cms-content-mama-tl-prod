@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:52:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:52:46+00:00", 
+  "modified_at": "2015-08-28T09:19:35.469006+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "700c77b0c65540af9ceb930d2a7e5381", 
+    "35a58b8ffd1e421bbf414768aa867241"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nSemua orang mengalami keguguran dengan perasaan yang berbeda.\r\n\r\nIni mungkin waktu yang sulit untuk Anda. Mungkin memakan waktu beberapa minggu untuk tubuh Anda memulih. Dan sementara tubuh Anda akan melalui semua perubahan ini, emosi Anda mungkin berada dalam kerusuhan juga.\r\n\r\nIzinkan diri Anda untuk merasa apa yang Anda rasa. Keguguran adalah sesuatu yang penuh emosi. Beberapa orang berkabung seakan kehilangan anggota keluarga atau teman baik. Kita semua berkabung, dan ia bisa mempengaruhi pikiran dan tubuh Anda dengan cara yang berbeda-beda. Atau Anda mungkin merasa lega karena banyak sebab.\r\n\r\nIngat bahwa keguguran pada awal kehamilan adalah hal biasa. Adalah sangat tidak mungkin ia adalah kesan daripada apa-apa yang Anda lakukan atau tidak lakukan.\r\n\r\nAnda mungkin merasa marah dengan mereka yang dekat dengan Anda atau dengan teman atau anggota keluarga yang lain yang sedang hamil atau yang sudah beranak. Anda mungkin merasa kesedihan yang amat sangat. Mungkin terlihat seperti segala yang Anda harapkan hancur dalam sekelip mata. Anda mungkin merasa lelah, tetapi tidak bisa tidur. Rutinitas harian Anda mungkin tampak tidak berarti. Anda mungkin tidak ingin makan, atau merasa sulit untuk berkonsentrasi. Atau Anda mungkin tidak merasa begini.\r\n\r\nIngat - Anda tidak butuh menyembunyikan perasaan Anda. Berbagi emosi Anda dengan teman dan keluarga akan membantu Anda.\r\n\r\nSemoga Anda sukses pada masa akan datang.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 80, 
+  "position": 152, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-your-feelings-after-pregnancy-loss", 
   "uuid": "33709aa2097d4f0f889c8a4a4d99e48e"
