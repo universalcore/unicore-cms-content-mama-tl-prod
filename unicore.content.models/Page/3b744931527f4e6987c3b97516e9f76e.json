@@ -6,15 +6,22 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:11:49+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:11:49+00:00", 
+  "modified_at": "2015-08-28T09:19:55.726529+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "66d797819e3347009e6cb848713d8f76", 
+    "689f4a0c9a9840fa91d7b7ba4ba0ae08", 
+    "ef9e940d313d4a28b76af7000210e4a9", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "4594d5f4c62f4baa9b513c3942660c9c", 
+    "ab55dfec8ebc49f1a04df93ba9405b38"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika Anda mendapati mana-mana hal ini terjadi, cepat ke bidan atau fasilitas kesehatan.\r\n\r\n**Anda:**\r\n\r\n -  Jika air ketuban Anda sudah pecah tetapi pelahiran masih belum dimulai setelah 6 jam\r\n\r\n -  Anda sudah menghadapi kontraksi selama lebih 12 jam, tetapi bayi masih belum datang\r\n\r\n -  Anda mengalami pendarahan yang parah dan menggunakan 2 sampai 3 pad dalam 15 menit\r\n\r\n -  Plasenta (uri) Anda belum keluar, dan telah 1 jam setelah kelahiran bayi Anda\r\n\r\n**Bayi Anda:**\r\n\r\n -  Bayi Anda tidak menangis kapan lahir, atau mengalami kesulitan bernapas\r\n\r\n -  Bayi Anda tidak mampu menyusui\r\n\r\n -  Bayi Anda demam, atau terasa dingin\r\n\r\n -  Bayi Anda sangat kecil (kurang dari 1500 gram atau dilahirkan lebih awal dari 32 minggu)\r\n\r\n -  Bayi Anda diserang sawan\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 48, 
+  "position": 68, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-danger-signs-birth", 
   "uuid": "3b744931527f4e6987c3b97516e9f76e"
