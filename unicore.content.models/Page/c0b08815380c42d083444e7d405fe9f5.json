@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2014-12-05T21:45:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T21:45:53+00:00", 
+  "modified_at": "2015-08-28T09:19:30.275561+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "24029509701641128653b2b6a988b4f5", 
+    "c7a6db186e0d4826a2f8d3a707255801"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda bisa lahir kapan-kapan lagi! Di dalam rahim Anda ia menanggalkan bulu-bulu halus yang tumbuh pada tengah-tengah kehamilan. Lapisan krem di kulitnya yang melindunginya ketika ia mengapung dalam cairan di dalam rahim Anda juga turut hilang. \r\n\r\nBayi Anda mengembangkan lapisan lemak di bawah kulit, yang akan membantu membuatnya kekal hangat saat ia lahir. Bayi yang baru lahir butuh kekal hangat. Cara terbaik untuk melakukan ini adalah untuk mendekapnya di dada Anda di dalam baju Anda. \r\n\r\nAnda mungkin tertanya-tanya bagaimana Anda akan tahu kapan persalinan dimulai. Ada tiga tanda persalinan mungkin bermula. \r\n\r\n 1. Bercak pada pakaian dalam adalah tanda bahwa persalinan bisa dimulai pada hari berikutnya. \r\n 2. Anda mungkin mengalami kontraksi yang terasa seperti sakit menstruasi. Sakitnya akan menjadi lebih kuat, teratur dan lebih menyakitkan. \r\n 3. Anda mungkin merasakan semburan atau tetesan air. Jika ini terjadi, Anda harus pergi ke fasilitas kesehatan. \r\n\r\nPastikan Anda tahu bagaimana untuk sampai ke fasilitas kesehatan sebelum persalinan bermula. Anda membutuhkan bidan, perawat atau dokter untuk merawat Anda saat persalinan dimulai. Periksa apakah Anda memiliki pulsa cukup pada telepon dan uang untuk bus atau taksi.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 86, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month9_Indonesian_pregnancy", 
   "uuid": "c0b08815380c42d083444e7d405fe9f5"
