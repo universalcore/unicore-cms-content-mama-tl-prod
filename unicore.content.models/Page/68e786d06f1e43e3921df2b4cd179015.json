@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:43:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:43:26+00:00", 
+  "modified_at": "2015-08-28T09:19:37.103370+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f323d6a0dc5441aa86684912d9d49701", 
+    "3a7850ed60b74de1815a5883890b7a3f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nNak muntah? Ini hal biasa. Banyak wanita merasa begini dalam kehamilan.\r\n\r\nSetiap orang berbeda. Ada yang rasa hanya sedikit mual di pagi hari, dan ada yang mendapati bau-bau tertentu membuat mereka merasa mual sepanjang hari. Kebanyakan wanita merasa lebih baik pada 3 bulan, tetapi ada juga yang tidak.\r\n\r\nCoba ubah makanan Anda. Pilih makanan tanpa banyak lemak, dan tanpa bau atau rasa yang kuat. Hindari makanan pedas. Beberapa wanita bisa konsumsi makanan yang dingin tetapi tidak yang panas.\r\n\r\nJika Anda merasa mual pada waktu pagi, coba makan nasi putih, atau biskuit, sebelum Anda bangun.\r\n\r\nJuga, coba kurangkan porsi, tetapi makan dengan lebih sering.\r\n\r\nBiskuit jahe, jahe atau lemon diparut ke dalam secangkir teh atau bahkan hanya bau jahe atau lemon yang baru diparut bisa membantu. Anda juga bisa mencoba teh mint, atau permen mint.\r\n\r\nJelaskan kepada keluarga dan teman-teman perasaan Anda dan apa yang Anda butuhkan. Jangan merasa bersalah meminta bantuan dengan hal-hal seperti berbelanja, memasak dan pekerjaan rumah.\r\n\r\nRasa mual dan muntah adalah hal biasa dalam kehamilan, tetapi jika Anda muntah banyak kali sehari, jika Anda tidak bisa makan dan minum tanpa muntah dan jika Anda kehilangan berat badan, Anda mungkin butuh perawatan bidan.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 94, 
+  "position": 162, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-can-i-feel-less-nauseous", 
   "uuid": "68e786d06f1e43e3921df2b4cd179015"
