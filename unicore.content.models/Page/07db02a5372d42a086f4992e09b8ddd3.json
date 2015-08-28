@@ -6,15 +6,19 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:16:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:16:32+00:00", 
+  "modified_at": "2015-08-28T09:19:32.457907+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "55dc5b8287e04da187fa63d487493d7e", 
+    "fa0bda1a2bf14b768d3bee180896598b", 
+    "0da6542df13b487f9ac882c306294b0b"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKapan bayi Anda berusia 6 bulan, dia bisa makan sedikit makanan keluarga yang lecek, serta air susu ibu (ASI).\r\n\r\nHanya sesendok sudah cukup pada awalnya. Duduk berhadapan dengannya dan tawarkan sedikit makanan lecek dengan jari yang bersih atau sendok. Dia mungkin mengambil sedikit waktu untuk memahami bagaimana menggerakkan makanan dengan lidahnya dan menelan. Bersabar. Dia akan belajar.\r\n\r\nPada awalnya, berikan dia makanan lecek sekali sehari, kemudian 2 kali sehari dan kemudian 3 kali sehari. Susui dia sebelum dan setelah makanan lecek itu.\r\n\r\nTinja bayi Anda akan berubah pasca memulai makanan padat, menjadi lebih gelap dan berbau. Ini hal biasa.\r\n\r\nKapan bayi Anda mulai menggenggam benda-benda, tibalah waktu untuk memberi makanan yang lebih mengenyangkan. Coba telur rebus matang, ikan yang dicincang, atau daging dan kacang yang dilecek, atau roti kering jika dia tumbuh gigi. Jangan menambahkan garam ke makanan bayi.\r\n\r\nSekarang dia sibuk ke sini ke sana, bayi Anda butuh makan 3 sampai 4 kali sehari. Berikan dia camilan dan hidangan. Makanannya harus lembek, supaya dia bisa melecekkannya dengan lidah dan telan. Jangan ke mana-mana ketika dia sedang makan, kalau-kalau dia tersedak.\r\n\r\nCuci tangannya dengan sabun dan air yang bersih dan aman sebelum dia makan.\r\n\r\nASI Anda masih baik untuknya, jadi susui dia kapan dia inginkan.\r\n\r\nKini dia lebih tua, dia juga bisa minum air yang bersih dan aman, tetapi tidak cola, teh, kopi atau minuman manis.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 93, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-what-solid-food-best", 
   "uuid": "07db02a5372d42a086f4992e09b8ddd3"
