@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2014-12-05T21:39:34+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-05T21:39:34+00:00", 
+  "modified_at": "2015-08-28T09:19:51.799046+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ba56b2efaefb4f4d988397fc136b541c", 
+    "1d179c8b79b54a0e90eaa3fafffc5783"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nDi dalam rahim, bayi Anda bangun dan tidur secara berkala sekarang. Ia sekarang bisa membuka dan menutup matanya, dan mengisap jarinya atau ibu jari! Ini membantu mengembangkan otot-otot yang dibutuhkan untuk mengisap supaya ia bisa menyusui segera setelah ia lahir. Otaknya tumbuh dan berkembang dengan cepat sekarang. \r\n\r\nIa bisa merespon pada bunyi sekarang. Awalnya, ia hanya bisa mendengar bunyi-bunyi dari dalam tubuh Anda, seperti degupan jantung Anda. Tapi perlahan-lahan ia akan mulai mendengar bunyi-bunyi dari luar tubuh Anda. Bernyanyilah kepada bayi Anda supaya ia bisa mendengar suara Anda. \r\n\r\nAnda mungkin terasa seperti rahim Anda mendesak tulang rusuk, yang akan membuat Anda rasa kehabisan napas. Makan bisa menjadi sulit karena perut Anda diperas oleh bayi Anda yang sedang berkembang. Kurang porsi lebih sedikit tetapi makanlah lebih sering, dan tambahkan makanan ringan di antara waktu makan. \r\n\r\nRahim Anda membesar mengikut perkembangan bayi. Kulit perut Anda juga meregang dan ini bisa menyebabkan gatal. Anda mungkin melihat garis-garis merah pada perut, pinggul, pantat dan payudara. Ia adalah stretch mark dan akan pudar ke tanda-tanda samar setelah Anda melahirkan. Anda mungkin mengalami kram kaki atau vena yang membengkak. \r\n\r\nPayudara Anda lebih penuh dan lebih berat sekarang. Ini karena ia sedang bersiap untuk membuat susu bagi bayi Anda\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 32, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month6_Indonesian_pregnancy", 
   "uuid": "950803d300294a61b035edc52687db2e"
