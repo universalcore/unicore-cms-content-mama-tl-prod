@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2014-12-05T22:13:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T22:13:39+00:00", 
+  "modified_at": "2015-08-28T09:19:19.967116+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7d11080f0081425cb1c36ee4eb89cf20", 
+    "be7cbd2363df461981734ef9db3f659a"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda mulai memahami kata-kata dan frasa-frasa mudah. Coba mengulangi kata-kata itu kembali kepadanya, menggunakan bahasa dewasa.\r\n\r\nPerlahan-lahan, ia akan belajar untuk mandiri, dan akan kurang menangis kapan Anda meninggalkannya. Tapi, kadang-kadang masih lagi sulit untuk meninggalkannya dan akan terdapat air mata juga! Jika ia memiliki sesuatu yang berbau Anda, seperti pakaian yang Anda telah pakai, itu akan membantu ia untuk bertenang.\r\n\r\nPada usia ini, bayi Anda bisa duduk dengan lebih yakin dan mungkin berjalan dengan memegang ke furnitur. Ia bahkan mungkin melepaskan tangan dan berdiri tanpa sokongan, atau bahkan mengambil beberapa langkah jika Anda memegang tangannya.\r\n\r\nSekitar usia ini, bayi Anda akan belajar untuk menyuap dirinya. Ia akan ingin minum dari cangkir. Ini adalah keterampilan baru, dan ia akan butuh berlatih selama beberapa bulan untuk menjadi pakar!\r\n\r\nBayi Anda dapat memahami instruksi mudah sekarang. Tapi ini tidak berarti ia akan selalu memperhatikan kata 'tak'! Ia akan mengarti \"tak\" dengan lebih baik jika kata itu hanya digunakan untuk membantu ia mempelajari perbedaan antara benar dan salah, dan selamat dan tidak selamat.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 117, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "10monthsold_Indonesian_baby", 
   "uuid": "5833f6ff73ff43faa2385014efb10394"
