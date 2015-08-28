@@ -6,15 +6,20 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:08:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:08:50+00:00", 
+  "modified_at": "2015-08-28T09:19:16.927868+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0ea17e711d394853b5250f906189a9fe", 
+    "52f5a17d62674e95a8a128317893e4d5", 
+    "09b3fc0e56ab42288079c22bdc5bb58c", 
+    "7886d8a7c0ad4a86a2323b40e8bad836"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnda bisa mendapat infeksi cacing dari tanah dan ia bisa membuat bayi Anda jatuh sakit.\r\n\r\nBersihkan lantai dengan sabun dan air sebelum bayi Anda baring, merangkak atau main di situ. Ini akan membantu memastikan dia aman. Jika Anda tidak bisa membersihkan lantai, letakkan selimut atau tikar yang besar dan bersih.\r\n\r\nKapan dia lebih tua, bayi Anda mungkin suka bermain di luar tetapi, di beberapa daerah, cacing adalah masalah. Cacing dari dalam lumpur dan tanah bisa menyebabkan sakit perut, batuk dan demam.\r\n\r\nStoking tebal, sandal atau sepatu akan membantu untuk melindungi bayi Anda ketika dia mulai berjalan di luar. Cuci tangannya dengan sabun dan air yang bersih dan aman. Penting juga untuk sering membersihkan kukunya. Ini akan mencegah telur cacing dari tanah dari memasuki badannya kapan dia memasukkan tangan ke dalam mulutnya.\r\n\r\nAnda mungkin tidak tahu jika anak Anda ada infeksi cacing. Obat cacing bisa membunuh cacing. Ini adalah aman untuk anak Anda meskipun dia tidak terinfeksi. Tanya bidan Anda jika bayi Anda butuh mengambil obat cacing.\r\n\r\n", 
   "source": null, 
@@ -22,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 19, 
+  "position": 142, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-worms-how-do-i-protect-her", 
   "uuid": "27dcc5daa5c647b5bc6ba4afd7366a05"
