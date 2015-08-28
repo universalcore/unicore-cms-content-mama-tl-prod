@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:23:26+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:23:26+00:00", 
+  "modified_at": "2015-08-28T09:19:32.074168+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "74470394d0654f909a42e1945242874b", 
+    "a46c5b1ad2d54449be11845d6c6f5513"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKebanyakan bayi mengambil langkah-langkah pertama pada sekitar 12 bulan. Banyak sudah berjalan dengan baik pada usia 14 atau 15 bulan.\r\n\r\nJangan khawatir jika anak Anda membutuhkan waktu yang lebih lama. Banyak anak tidak berjalan sampai mereka berusia 17 atau 18 bulan.\r\n\r\nKapan bayi Anda mengambil langkah pertama, bantu dia. Dia akan memegang tangan Anda, atau menggunakan dinding atau furnitur untuk dukungan. Berikan banyak pujian dan pelukan untuk usahanya!\r\n\r\nBayi Anda mungkin mengambil beberapa bulan lagi untuk membangun keyakinan dan keseimbangan yang dia butuh untuk mengambil langkah pertama dengan sendiri. Kemudian dia akan membutuhkan beberapa bulan lagi untuk berjalan dengan kontrol dan stabil.\r\n\r\nKemampuan untuk berjalan adalah momen penting dalam perkembangan bayi Anda. Ini menandai perubahan dari bayi ke anak.\r\n\r\nJika Anda khawatir tentang perkembangan bayi Anda, berbicara dengan bidan.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 82, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-when-will-my-baby-walk", 
   "uuid": "021cdb68f8404ce89edeba30fa141e3a"
