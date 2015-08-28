@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Is your house smoky? ", 
+  "description": "Bagi udara segar masuk!", 
+  "language": "ind_ID", 
+  "title": "Apakah rumah Anda penuh asap?", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T09:58:35+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T09:58:35+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nMenghirup asap berbahaya untuk Anda dan bayi Anda.\r\n\r\nJika rumah Anda banyak asap, bagi udara segar masuk. Bukakan jendela dan pintu. Ini akan membantu. Jelaskan kepada orang lain efek merokok mereka pada bayi yang berkembang dalam tubuh Anda.\r\n\r\nJauhkan diri dari asap. Asap bisa membuat Anda lemah dan sakit. Buka jendela, jika rumah Anda terlalu banyak asap  masakan. Jika Anda tinggal di daerah dingin di mana membuka pintu dan jendela tidak mungkin, cobalah untuk tinggal di bagian rumah yang paling kurang asap.\r\n\r\nMinta keluarga dan teman merokok di luar.\r\n\r\nAnda juga bisa mencoba beberapa ide-ide ini:\r\n\r\n -  Pindah dapur Anda ke luar jika Anda bisa, untuk mengurangi jumlah asap di dalam rumah\r\n\r\n -  Gunakan LPG, listrik atau kompor minyak tanah jika bisa\r\n\r\n -  Naikkan dapur sampai setinggi pinggang Anda - ini bisa mengurangi paparan asap dari bersandar di atas api ketika memasak\r\n\r\n -  Gunakan tutup untuk menghemat panas dalam pot, dan Anda bisa mengurangi waktu memasak, jadi asap yang dihirup juga berkurang \r\n\r\n -  Rendam makanan sebelum memasak untuk mengurangi waktu memasak\r\n\r\n -  Vakum atau mop bisa mengurangi jumlah debu yang anda hirup\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 70, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-your-house-smoky", 
+  "uuid": "bb3a0cef79ad41389d1cadb06edc5cba"
+}
