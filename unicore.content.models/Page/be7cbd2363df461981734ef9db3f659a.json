@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2014-12-05T22:15:48+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T22:15:48+00:00", 
+  "modified_at": "2015-08-28T09:19:29.887754+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "4007e10c62cb4eeb83c4ef3128fdf2d8", 
+    "5833f6ff73ff43faa2385014efb10394"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nBayi Anda mungkin menyebut sesuatu atau membuat suara yang kedengaran seperti kata-kata. Otaknya berkembang, dan begitu juga kemampuannya untuk berbicara. Dengarkan dengan hati-hati dan respon kepada suaranya. Ini akan mendorongnya.\r\n\r\nIa hampir berusia satu tahun sekarang! Bahkan jika ia tidak mengarti apa yang terjadi, pada usia ini, perayaan dengan keluarga dan teman-teman memberikan perasaan keamanan dan hidup bermasyarakat. Ia akan suka turut serta dalam perayaan sederhana, yang tidak jauh dari rumah. Ia mungkin merasa terkejut jika ada terlalu ramai orang di sekitar.\r\n\r\nAnda mungkin melihat bayi Anda masih mempelajari tentang sesuatu dengan memasukkannya dalam mulut. Ia juga bisa naik kursi untuk mencapai sesuatu yang berada di tempat tinggi! Berhati-hatilah sekarang, awasinya dan pastikan benda-benda berbahaya tidak bisa dicapai.\r\n\r\nBayi Anda ingin membuat Anda gembira, jadi tidak terlalu awal untuk mengajarnya bagaimana untuk membantu. Jadikan kerja harian lebih seronok dengan mengubahnya menjadi sebuah permainan. Membagikan kerja itu kepada tugas-tugas kecil dan lakukan dengannya.\r\n\r\nBayi Anda mungkin sudah berjalan, atau ia akan mengambil langkah-langkah pertamanya tidak lama lagi.\r\n\r\nAnda bisa bersenang-senang mengajarnya berjalan. Berdiri atau berlutut di depannya dan hulurkan tangan Anda. Coba pimpinnya berjalan ke arah Anda. Ia mungkin mengambil langkah-langkah pertamanya dengan kedua lengannya di sisi. Ia juga mungkin berjalan dengan dua kakinya menghala keluar dan pantatnya terkedek-kedek untuk keseimbangan.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 88, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "11monthsold_Indonesian_baby", 
   "uuid": "be7cbd2363df461981734ef9db3f659a"
