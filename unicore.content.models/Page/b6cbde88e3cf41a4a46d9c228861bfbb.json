@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:00:58+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:00:58+00:00", 
+  "modified_at": "2015-08-28T09:20:01.351132+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "f323d6a0dc5441aa86684912d9d49701", 
+    "7886d8a7c0ad4a86a2323b40e8bad836"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nMakanan yang busuk atau basi bisa membuat Anda sakit. Cobalah masak hidangan segar setiap hari. Pastikan dapur dan tempat makan Anda bersih dan simpan makanan di tempat yang dingin dan kering.\r\n\r\n -  Masak daging dan ayam sehingga tidak ada daging merah muda.\r\n\r\n -  Rebus telur sampai keras. Masak susu untuk membunuh kuman.\r\n\r\n -  Jika Anda membeli makanan warung, pilih warung yang bersih. Pastikan gerai yang Anda pilih adalah populer, di mana Anda bisa yakin bahwa masakannya segar dan sudah aman dimakan oleh orang lain.\r\n\r\n -  Tutup semua makanan yang sudah masak untuk melindunginya dari lalat.\r\n\r\n -  Cuci tangan dengan sabun sebelum menyiapkan makanan, setelah menggunakan toilet dan setelah menyentuh hewan.\r\n\r\n -  Cuci semua piring dan bersihkan dapur degan air bersabun sehingga tidak ada sisa makanan.\r\n\r\nJika ada luka pada tangan Anda, pastikan sudah dibersih dan ditutup dengan kain bersih.\r\n\r\nJangan benarkan hewan di dalam dapur. Hewan bisa menyebar kuman dan membawa penyakit.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 65, 
+  "position": 71, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-cook-food-safely", 
   "uuid": "b6cbde88e3cf41a4a46d9c228861bfbb"
