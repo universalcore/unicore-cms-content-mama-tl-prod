@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Is she getting enough milk?", 
+  "description": "Ingat tanda-tanda berikut", 
+  "language": "ind_ID", 
+  "title": "Apakah dia mendapat susu yang cukup?", 
+  "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
+  "created_at": "2015-03-26T10:21:37+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T10:21:37+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nJika bayi Anda menyusui setidaknya 6 sampai 8 kali sehari, dan Anda nyaman menyusuinya, dia mendapat susu yang cukup. Anda akan bisa melihat dia menelan ketika menyusui, dan payudara Anda akan merasa lebih kosong dan lembut setelah menyusui.\r\n\r\nSatu lagi tanda yang baik adalah jika bayi Anda berubah rentak saat menghisap dan berhenti sejenak saat menyusui. Dia harus menyusu lagi kapan sudah siap, dan berhenti kapan dia mau.\r\n\r\nPopok bayi juga bisa menunjukkan jika bayi Anda mendapat susu yang cukup. Tinjanya harus berwarna kuning dan dia harus buang air besar setidaknya sekali sehari. Kapan Anda mengganti popoknya, air kencingnya harus pucat dan seharusnya tidak berbau. Popoknya harus basah setidaknya 6 sampai 8 kali setiap hari.\r\n\r\nBayi yang mendapat susu yang cukup akan memiliki kulit yang sehat dan cerah yang memantul balik kapan dicubit dengan lembut.\r\n\r\nJika Anda khawatir bahwa bayi Anda tidak mendapat susu yang cukup, tanya bidan. Dia bisa memastikan yang bayi Anda sehat.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 38, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-she-getting-enough-milk", 
+  "uuid": "ad47f567488f481a89ead686e224ccd8"
+}
