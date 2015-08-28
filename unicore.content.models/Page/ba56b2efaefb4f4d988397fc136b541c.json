@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2014-12-05T21:41:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-05T21:41:11+00:00", 
+  "modified_at": "2015-08-28T09:19:42.294799+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "950803d300294a61b035edc52687db2e", 
+    "c7a6db186e0d4826a2f8d3a707255801"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter \r\n\r\nSekarang bayi Anda bisa membuka matanya dan memutar kepalanya ke arah cahaya, bahkan di dalam rahim! Ia bisa mendengar, dan mungkin menendang dan melompat ketika ia mendengar suara keras, dan duduk diam ketika Anda menyanyi dan berbicara dengannya. \r\n\r\nTidak lama lagi ia akan masuk ke posisi kepala terbalik di dalam rahim Anda, siap untuk proses persalinan. \r\n\r\nPerut yang semakin besar membuat tidur nyenyak semakin sulit. Berbaringlah dalam posisi miring dan letakkan bantal di antara kaki untuk menopang perut. Anda mungkin mulai merasakan nyeri pinggul karena jaringan yang memegang pinggul ke panggul melonggar. Ini adalah cara tubuh Anda mempersiapkan untuk persalinan. Duduk melutut atau posisi merangkak boleh membantu melegakan kesakitan. \r\n\r\nMulailah membuat rencana persalinan untuk ke bidan atau dokter untuk persalinan. Rencanakan bagaimana Anda akan melakukan perjalanan, dan mungkin minta teman atau saudara untuk membantu. Bicaralah dengan keluarga Anda dan pastikan mereka tahu ke mana Anda harus pergi. \r\n\r\nPergi ke fasilitas kesehatan pada akhir kehamilan supaya perawat atau petugas kesehatan bisa memastikan bahwa Anda dan bayi dalam kondisi baik. Mereka bisa memberitahu apa yang Anda butuhkan untuk proses persalinan dan kapan harus ke klinik bersalin.\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 2, 
+  "position": 56, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month7_Indonesian_pregnancy", 
   "uuid": "ba56b2efaefb4f4d988397fc136b541c"
