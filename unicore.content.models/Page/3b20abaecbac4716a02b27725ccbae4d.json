@@ -6,15 +6,17 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:48:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:48:25+00:00", 
+  "modified_at": "2015-08-28T09:19:18.635117+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3a7850ed60b74de1815a5883890b7a3f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAdalah detik yang sangat menyenangkan sekaligus menegangkan ketika merasa bayi Anda bergerak untuk kali pertama! Jika ini adalah kehamilan pertama, Anda mungkin tidak yakin apa yang Anda rasa pada awalnya. Gerakan bayi bagaikan sayap kupu-kupu berkedip di dalam perut Anda.\r\n\r\nGerakan bayi Anda akan semakin kuat dan lebih sering. Pada pertengahan kehamilan, ia akan merasa seperti tendangan nyata. Pada akhir kehamilan, Anda mungkin melihat seluruh perut Anda bergerak kapan bayi bergerak.\r\n\r\nBayi Anda tidak akan bergerak sepanjang waktu. Seperti Anda, kadang-kadang dia akan ingin istirahat dan tidur.\r\n\r\nLuangkan waktu untuk duduk dan merasakan gerakan bayi setiap hari.\r\n\r\nAnda bisa memahami pola pergerakannya. Ingat rutinitas hariannya, kapan dia sadar dan kapan dia tidur. Anda mungkin mendapati Anda bangun pagi karena bayi menendang. Atau mungkin bayi mulai menendang kapan Anda menyanyi atau ketika Anda siap untuk mandi.\r\n\r\nJika Anda mendapati jumlah pergerakan menurun, minum minuman dingin atau makan camilan manis dan duduk diam sejenak. Anda harus merasa lebih banyak gerakan. Beritahu bidan jika Anda mendapati perubahan dalam rutinitasnya.\r\n\r\nJika Anda masih belum merasakan gerakan bayi, beritahu bidan Anda. Dia akan memeriksa yang semuanya berjalan dengan lancar.\r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 85, 
+  "position": 204, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-i-can-feel-my-baby-move", 
   "uuid": "3b20abaecbac4716a02b27725ccbae4d"
