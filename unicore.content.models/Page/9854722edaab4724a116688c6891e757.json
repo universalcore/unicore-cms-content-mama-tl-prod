@@ -6,15 +6,19 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:54:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:54:54+00:00", 
+  "modified_at": "2015-08-28T09:19:39.621992+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6c629ce782df47d085127e880a2c3fe7", 
+    "6a0851287e804e799ddfe044a25041c5", 
+    "3988a4849f724a25a324928613f99323"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika Anda hidup dengan HIV, Anda tidak sendirian; banyak wanita hamil yang hidup dengan HIV. Tapi Anda bisa menghindari ia dijangkit kepada bayi Anda dengan perawatan yang tepat selama kehamilan.\r\n\r\nJika Anda belum diuji untuk HIV lagi, Anda mungkin bisa mendapatkan tes  di fasilitas kesehatan. Hanya Anda akan tahu keputusan, tetapi Anda bisa mengambil teman untuk dukungan.\r\n\r\nJika tes HIV pertama Anda adalah negatif Anda akan ditawarkan satu lagi tes dalam beberapa bulan. Silakan ambil jika bisa. Dengan perawatan yang tepat, Anda bisa menghindari infeksi HIV kepada bayi Anda.\r\n\r\nMemang menakutkan untuk mengetahui Anda ada HIV. Berikan diri waktu untuk menerima kenyataan ini. Tidak ada yang bisa melihatnya dan banyak wanita hamil sedang hidup dengannya. Obat akan membantu untuk mencegah infeksi HIV kepada bayi Anda. Beberapa fasilitas kesehatan menawarkan obat ini secara gratis.\r\n\r\nAnda bisa menjalani kehidupan yang normal jika Anda mengambil semua obat Anda dan menjaga diri.\r\n\r\nAnda butuh obat-obatan yang disebut antiretroviral (ARV). ARV membantu Anda menjalani kehidupan sehat. ARV juga membantu untuk memastikan bahwa HIV tidak menyebar kepada bayi Anda.\r\n\r\nJika Anda ada HIV, bayi Anda juga harus mengambil ARV dalam 6 minggu pertama kehidupannya. Obat ini bisa mencegah infeksi HIV ketika Anda menyusuinya.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 76, 
+  "position": 137, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-what-if-im-living-hiv", 
   "uuid": "9854722edaab4724a116688c6891e757"
