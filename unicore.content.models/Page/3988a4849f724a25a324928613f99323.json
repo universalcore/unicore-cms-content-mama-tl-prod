@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:54:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:54:24+00:00", 
+  "modified_at": "2015-08-28T09:19:18.347535+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8db60b21d9f94d98b2f958b3f7af9c7a", 
+    "9854722edaab4724a116688c6891e757"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnda bisa menjadi HIV-positif jika Anda berhubungan seks tanpa kondom dengan orang yang HIV-positif. Anda bisa melindungi diri dengan selalu menggunakan kondom kapan berhubungan seks.\r\n\r\nKondom mencegah Anda dan bayi Anda mendapat infeksi menular seksual (IMS), seperti HIV.\r\n\r\nBeberapa fasilitas kesehatan menawarkan kondom gratis.\r\n\r\nBicaralah dengan pasangan Anda tentang manfaat menggunakan kondom. Katakan padanya bahwa Anda ingin menggunakan kondom untuk melindungi bayi Anda dari HIV. Pasangan Anda mungkin merasa bahwa kondom membuat seks kurang menyenangkan. Tapi kondom yang terbuat dari lateks sangat tipis dan hampir tidak dirasakan. Jika digunakan dengan benar, kondom tidak membuat seks kurang menyenangkan. Terus berlatih; Anda akan bahkan tidak menyadari kondom saat berhubungan seks.\r\n\r\nDapatkan bidan Anda untuk menunjukkan kepada Anda bagaimana menggunakan kondom dengan benar.\r\n\r\nBanyak yang berpikir bahwa HIV bisa ditularkan oleh gigitan nyamuk. Ini tidak benar. Anda tidak akan terinfeksi HIV dengan berbagi makanan dan air dengan seseorang yang HIV-positif atau berada di sekitar seseorang yang batuk. Anda juga tidak akan terinfeksi HIV dengan memeluk atau mencium orang yang terinfeksi.\r\n\r\nCara terbaik untuk melindungi diri sendiri adalah dengan menggunakan kondom setiap kali berhubungan seks. Mencuci diri setelah berhubungan seks tidak akan melindungi Anda.\r\n\r\nAnda mungkin bisa menjalani tes HIV di fasilitas kesehatan. Mintalah pasangan Anda untuk dites juga. Mengetahui lebih awal berarti Anda bisa mendapatkan perawatan yang tepat dan pengobatan, supaya Anda bisa memiliki kehamilan yang sehat dan bayi yang sehat.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 77, 
+  "position": 197, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-use-condom", 
   "uuid": "3988a4849f724a25a324928613f99323"
