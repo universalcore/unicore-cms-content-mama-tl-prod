@@ -6,15 +6,22 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:02:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:02:56+00:00", 
+  "modified_at": "2015-08-28T09:19:59.394794+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "80bbf66d72c4480d9cae9b747cfaa938", 
+    "7a440ab638f545e5bb5d5080c30ccfdd", 
+    "f323d6a0dc5441aa86684912d9d49701", 
+    "d85271cb4bff4836ab135503d6b06777", 
+    "d4039d6be1c94aefa9ead8aa205e0800", 
+    "e877846ff5f349099cfa6d1c953fc033"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAnda dan bayi Anda membutuhkan banyak kalsium. Makan atau minum makanan yang berisi kalsium setiap hari. Ini akan membantu Anda kekal sehat dan bayi Anda mendapat tulang dan gigi yang kuat.\r\n\r\nKalsium adalah mineral yang membantu perkembangan tulang dan gigi. Anda membutuhkan banyak kalsium, karena tulang Anda juga masih berkembang. Ia juga mungkin mengurangi risiko tekanan darah tinggi.\r\n\r\nKalsium membentuk tulang dan gigi bayi Anda. Ia juga membantu untuk mengontrol rentak hatinya. Jika Anda tidak mendapat kalsium yang cukup, bayi Anda tidak akan kekurangan, tetapi Anda akan. Ini karena tubuh Anda mendahulukan kebutuhan bayi Anda.\r\n\r\nAnda bisa mendapatkan kalsium dari:\r\n\r\n -  susu kedelai dan santan\r\n\r\n -  tempeh\r\n\r\n -  sayuran berdaun hijau\r\n\r\n -  ikan, terutama ikan berminyak seperti tenggiri\r\n\r\nUntuk membantu Anda untuk menyerap kalsium yang cukup, Anda juga harus memastikan bahwa Anda mendapatkan vitamin D yang cukup. Tubuh Anda membuat vitamin D dari sinar matahari.\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 62, 
+  "position": 73, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-do-i-need-calcium", 
   "uuid": "88b816bdc84f4ce3a4c1213839243c47"
