@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Where to have my baby?", 
+  "description": "Sebuah fasilitas kesehatan adalah paling aman", 
+  "language": "ind_ID", 
+  "title": "Dimana untuk melahirkan bayi saya?", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T10:06:02+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T10:06:02+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nKapan bayi Anda sudah hampir cukup bulan, tibalah saat untuk membuat rencana.\r\n\r\nSebuah fasilitas kesehatan adalah tempat paling aman untuk melahirkan bayi Anda. Hitung waktu yang dibutuhkan untuk sampai ke sana. Bicara dengan keluarga Anda tentang transportasi dan putuskan siapa yang akan bersama Anda. Pilih seseorang yang Anda percaya.\r\n\r\nJika bayi Anda datang terlalu cepat atau Anda tidak bisa sampai ke fasilitas kesehatan untuk melahirkan:\r\n\r\n -  Sangat penting untuk mendapatkan penolong yang terlatih. Pastikan keluarga Anda tahu bagaimana untuk menghubungi penolong ini. Penolong Anda mungkin memiliki kit kelahiran. Ini akan berisi helaian plastik, sarung tangan, tali bersih dan alat untuk memotong tali pusat bayi Anda.\r\n\r\n -  Jika Anda tidak bisa mendapatkan kit kelahiran, carikan helaian kain di mana bayi Anda akan dilahirkan, 2 helai kain, satu untuk mengeringkan bayi dan satu untuk menyelimutkan dia. Sediakan pisau yang bersih dan tajam atau sepasang gunting bersih.\r\n\r\n -  Penolong Anda harus mencuci tangan dan Anda harus mencuci di antara kaki Anda. Sediakan banyak air masak yang bersih dan aman, dan sabun.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 58, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-where-have-my-baby", 
+  "uuid": "ffdd759a7f8d45a99892851ac7ee76f5"
+}
