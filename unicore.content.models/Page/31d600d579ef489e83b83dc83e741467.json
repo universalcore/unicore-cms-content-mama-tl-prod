@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Who shall I tell?", 
+  "description": "Beritahu bidan Anda", 
+  "language": "ind_ID", 
+  "title": "Siapa yang butuh tahu?", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T09:32:13+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T09:32:13+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nBeberapa wanita ingin merahasiakan kehamilan mereka pada awalnya.\r\n\r\nTetapi memberitahu bidan Anda tidak berarti Anda harus memberitahu orang lain.\r\n\r\nBerdiskusi tentang kehamilan dengan bidan adalah baik untuk Anda dan bayi Anda. Mendapatkan perawatan baik pada awalnya bisa mengurangi masalah kelak.\r\n\r\nAnda bisa mendapatkan beberapa tes untuk memastikan bahwa Anda dan bayi Anda sehat, diantaranya tes-tes darah, urin dan HIV.\r\n\r\nJika Anda tahu yang Anda hidup dengan HIV, Anda mungkin bisa mendapatkan obat gratis untuk mencegah bayi Anda dari menjadi HIV-positif.\r\n\r\nMeskipun Anda sehat, dapatkan pemeriksaan secara teratur supaya Anda dan bayi Anda bisa tetap sehat.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 99, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-who-shall-i-tell", 
+  "uuid": "31d600d579ef489e83b83dc83e741467"
+}
