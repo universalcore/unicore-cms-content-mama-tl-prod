@@ -6,15 +6,19 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:21:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:21:10+00:00", 
+  "modified_at": "2015-08-28T09:19:21.575307+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "216af5eaee1a437a9f7b1575697a486e", 
+    "021cdb68f8404ce89edeba30fa141e3a", 
+    "6d6bc4a118414cef87d2f5983e9419fa"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKebanyakan bayi mulai mencoba untuk berdiri di antara 8 dan 10 bulan. Bayi Anda mungkin menarikkan diri sehingga berhasil berdiri dengan menggunakan tangan Anda, atau dinding, atau furnitur.\r\n\r\nPada mulanya, bayi Anda harus berpegang kepada Anda atau furnitur. Pada usia 11 bulan, dia mungkin bisa berdiri tanpa Anda memegang dia. Berikan banyak pujian dan pelukan ketika dia melakukan ini.\r\n\r\nKapan bayi Anda menjadi lebih yakin, dia mulai bergerak, masih berpegang pada furnitur. Kapan dia bisa melakukan ini, tidak lama lagi dia akan berjalan!\r\n\r\nBayi Anda mungkin bisa berdiri dengan mudah, tetapi dia mungkin merasa sulit untuk duduk kembali! Anda bisa membantu dia belajar untuk duduk kembali. Jangan angkat dan dudukkan saja, sebaliknya tunjukkan bayi Anda bagaimana untuk menekuk lututnya. Kemudian dorong dia mencoba lagi! Dia mungkin memakan waktu beberapa hari atau minggu untuk belajar bagaimana untuk menekuk lutut dan duduk.\r\n\r\nJaga bayi kapan dia mengeksplorasi, maka jika dia jatuh, Anda bisa memastikan bahwa dia tidak terluka. Ini juga berarti bahwa kapan dia mengambil langkah pertama, Anda bisa menyaksikannya!\r\n\r\nSemua bayi berkembang dalam cara-cara yang berbeda, ada yang lebih cepat dari yang lain. Jika Anda khawatir tentang perkembangan bayi Anda, berbicara dengan bidan.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 115, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-when-will-my-baby-stand", 
   "uuid": "a46c5b1ad2d54449be11845d6c6f5513"
