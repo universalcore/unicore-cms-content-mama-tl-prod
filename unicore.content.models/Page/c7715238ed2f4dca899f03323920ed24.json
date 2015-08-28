@@ -6,15 +6,19 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:49:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:49:27+00:00", 
+  "modified_at": "2015-08-28T09:20:02.064778+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7a440ab638f545e5bb5d5080c30ccfdd", 
+    "ac500e31cddd4aa5945cd4eeef4f17b0", 
+    "195c911f2bc846febf62b756dc59b4c8"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nKehamilan bisa membuat Anda merasa sangat letih. Istirahat sesering mungkin. Jelaskan kepada bos dan keluarga Anda bahwa tubuh Anda sedang berusaha keras untuk mengembangkan bayi Anda. Hanya lakukan tugas yang paling penting di rumah, dan minta bantuan dari keluarga Anda.\r\n\r\nKapan bayi anda membesar di dalam tubuh Anda, dia akan membutuhkan lebih banyak makanan. Perlahan-lahan tambah jumlah makanan. Makan segenggam makanan berlebihan setiap hidangan. Kurangkan porsi sedikit, tetapi makanlah dengan lebih sering sepanjang hari. Bawa makanan ketika Anda pergi bekerja.\r\n\r\nBayi yang membesar akan mulai menekan kandung kemih Anda, tempat di mana air kencing Anda mengumpul. Ini akan membuat Anda ingin kencing dengan lebih sering, mungkin mengganggu tidur Anda. Cobalah jangan minum apa-apa satu jam sebelum Anda tidur. Ini mungkin membantu kondisi. Minum banyak air bersih dan aman sepanjang hari.\r\n\r\nAnda mungkin mengalami kram kaki. Otot-otot kaki Anda mendukung berat badan bayi Anda yang semakin menambah. Ini bisa menyebabkan kaki Anda nyeri atau sangat letih. Jika Anda terjaga dari tidur karena kram, coba meregangkan otot. Luruskan kaki Anda dan gerakkan tapak kaki perlahan. Anda juga bisa coba memijat otot yang kram itu. Jangan berdiri terlalu lama atau duduk bersilang kaki.\r\n\r\nTidur dalam posisi miring di sebelah kiri Anda, dengan bantal atau pad kain antara lutut Anda. Ini mungkin bisa membantu Anda merasa lebih nyaman pada waktu malam.\r\n\r\n", 
   "source": null, 
@@ -22,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 84, 
+  "position": 88, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-do-i-need-rest", 
   "uuid": "c7715238ed2f4dca899f03323920ed24"
