@@ -6,15 +6,17 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:13:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:13:35+00:00", 
+  "modified_at": "2015-08-28T09:19:47.332230+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7da21a0a07f848d9b7ff961bf22e3de3"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nJika penis bayi Anda dibalut, perban harus lepas dalam waktu 2 hari. Jika tidak, rendam penis dalam air hangat, dan perlahan buka perban. Sapu obat antiseptik jika fasilitas kesehatan ada memberikannya. Jika tidak, petroleum jelly bisa melindungi luka dari kuman.\r\n\r\nMungkin ada sedikit darah pada popok bayi laki-laki Anda untuk beberapa jam setelah prosedur dilakukan. Pastikan area popok itu bersih. Cuci penisnya perlahan dengan air yang bersih dan aman dan sabun 3 kali sehari.\r\n\r\nTukar popoknya secepat ia basah, untuk menghindari infeksi. Anda juga bisa memberi sedikit waktu bebas dari popok. Udara segar akan membantu luka untuk kering. Pakaian yang longgar juga membantu proses pemulihan bayi Anda.\r\n\r\nAnak laki-laki Anda mungkin merasa nyeri. Berikannya pereda nyeri jika bidan ada berikan. Susuinya untuk menenangkan dia.\r\n\r\nLuka itu harus sembuh dalam waktu 1 atau 2 minggu. Bawa ke fasilitas kesehatan jika penisnya merah dan bengkak pasca 2 sampai 3 hari, jika dia masih berdarah atau jika dia tidak kencing sesering biasa.\r\n\r\nIngat: adalah tidak aman untuk menyunatkan anak perempuan pada semua usia.\r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 58, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-help-your-baby-boy-heal", 
   "uuid": "3f2e7307c07446bdb19df0f62bd8b501"
