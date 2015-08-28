@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T10:22:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:22:10+00:00", 
+  "modified_at": "2015-08-28T09:19:39.257560+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "46a4fcc5a514462483e0e023223af843", 
+    "ad47f567488f481a89ead686e224ccd8"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nCari wadah atau mangkuk untuk ASI Anda. Basuh dengan baik dan bilas dengan air mendidih untuk membunuh kuman. Cuci tangan Anda dan cari tempat yang nyaman sama seperti jika Anda menyusui bayi.\r\n\r\nPijat bagian belakang puting Anda perlahan-lahan dan dengan lancar, untuk membantu ASI yang jauh di dalam payudara Anda mengalir.\r\n\r\nKemudian, dengan ibu jari dan telunjuk, buatkan bentuk setengah lingkaran yang besar di sekitar payudara Anda. Perlahan bawakan ibu jari dan telunjuk bersama, kira sampai nomor 3, dan lepaskan.\r\n\r\nTerus perah dan lepas sehingga Anda nampak susu keluar dari puting. Bersabar, ia mungkin mengambil sedikit waktu. Memikirkan bayi Anda mungkin bisa membantu ASI mengalir.\r\n\r\nUbah payudara ketika aliran berkurang.\r\n\r\nSetelah memerah susu ke dalam mangkuk, tutupkan dengan penutup yang bersih. Ini akan menghindarkan serangga, debu dan kuman dari ASI Anda.\r\n\r\nCari tempat yang dingin untuk menyimpan ASI Anda. Jika Anda tiada kulkas, cari tempat di rumah Anda yang jauh dari panas atau sinar matahari. Anda bisa menyimpan ASI di tempat yang dingin ini untuk selama 4 jam.\r\n\r\nJika Anda rasa susah memerah ASI Anda begini, ingatlah bahwa ASI Anda adalah benar-benar sehat untuk bayi Anda. Lebih banyak anda lakukan, lebih mudah Anda akan mendapatinya dan lebih cepat Anda akan dapatkan!\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 37, 
+  "position": 99, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-how-squeeze-out-my-breastmilk", 
   "uuid": "91470e9ec468411f8034d05450beab9a"
