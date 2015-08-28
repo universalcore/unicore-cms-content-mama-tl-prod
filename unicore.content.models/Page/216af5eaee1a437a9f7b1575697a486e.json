@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:21:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:21:45+00:00", 
+  "modified_at": "2015-08-28T09:19:33.604723+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6d6bc4a118414cef87d2f5983e9419fa", 
+    "0da6542df13b487f9ac882c306294b0b"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nBermain dengan objek-objek adalah menyenangkan bagi bayi Anda, dan membantunya mengembangkan keterampilan mental dan fisik.\r\n\r\nKemampuan menggenggam benda-benda membukakan seluruh dunia baru untuk permainan bayi. Ini juga langkah pertama ke arah bayi Anda melakukan perkara-perkara untuk dirinya, seperti makan, menyikat gigi, membaca, menulis dan melakukan pekerjaan rumah.\r\n\r\nBayi Anda dilahirkan dengan naluri yang kuat untuk menggenggam. Awalnya, dia senang dengan hanya memandang objek yang menarik, tetapi tidak lama lagi dia ingin menggenggamnya. Dia mulai menggunakan keterampilan ini pada sekitar usia 3 bulan. Objek berwarna-warni adalah baik untuk membantu bayi Anda untuk belajar keterampilan ini. Bersenang-senang dengan bayi Anda dengan menjuntai objek dalam jangkauannya. Lihat dia mencoba mengambilnya!\r\n\r\nBenda dan mainan dengan tekstur berbeda adalah baik untuk bayi mengeksplorasi. Perbedaan antara lembut dan keras akan membantu merangsang indera bayi Anda. Beri dia main dengan benda yang terbuat dari bahan lembut yang aman.\r\n\r\nKapan bayi Anda sekitar berusia 5 bulan, dia mulai mengeksplorasi dengan menempatkan objek dalam mulutnya. Ini adalah alami, dan membantu bayi Anda untuk belajar.\r\n\r\nPilih objek atau mainan yang aman jika dimasukkan ke dalam mulut bayi Anda. Semuanya harus mudah untuk dibersihkan, tanpa sudut tajam, tali, atau potongan kecil. Bersihkan dengan sering.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 81, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-my-baby-can-hold", 
   "uuid": "216af5eaee1a437a9f7b1575697a486e"
