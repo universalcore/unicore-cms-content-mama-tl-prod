@@ -1,0 +1,29 @@
+{
+  "subtitle": "ID Should I eat differently?", 
+  "description": "Anda membutuhkan makanan yang berwarna-warni", 
+  "language": "ind_ID", 
+  "title": "Butuhkah saya konsumsi makanan yang lain?", 
+  "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
+  "created_at": "2015-03-26T09:59:50+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-03-26T09:59:50+00:00", 
+  "_version": {
+    "package_version": "1.4.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Dikarang oleh BabyCenter\r\n\r\nSekarang Anda hamil, adalah penting untuk makan dengan baik supaya bayi Anda akan tumbuh dengan baik. Anda dan bayi Anda membutuhkan banyak jenis makanan.\r\n\r\nCara mudah untuk memahaminya adalah untuk mengkonsumsi banyak makanan yang berbagai warna!\r\n\r\nBicarakan dengan keluarga Anda tentang makanan yang Anda butuhkan.\r\n\r\nCoba konsumsi jenis-jenis makanan berikut setiap hari:\r\n\r\n -  Buah-buahan dan sayuran. Ini melindungi bayi Anda dari dilahirkan dengan apa-apa masalah.\r\n\r\n -  Makanan bertepung. Ini termasuk roti, nasi, mi, labu dan kentang. Makanan ini memberi Anda energi.\r\n\r\n -  Makanan yang kaya protein. Ini termasuk telur, sayuran berdaun hijau gelap, tahu, kacang, ayam, ikan dan daging. Ini adalah makanan yang membangun tubuh.\r\n\r\n -  Makanan yang kaya kalsium dan produk susu. Ini termasuk susu, susu kedelai, tahu dan brokoli. Makanan ini membantu perkembangan tulang bayi Anda.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 67, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "id-should-i-eat-differently", 
+  "uuid": "f323d6a0dc5441aa86684912d9d49701"
+}
