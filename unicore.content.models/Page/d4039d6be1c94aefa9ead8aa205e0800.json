@@ -6,15 +6,22 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T10:02:25+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T10:02:25+00:00", 
+  "modified_at": "2015-08-28T09:19:30.678025+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "80bbf66d72c4480d9cae9b747cfaa938", 
+    "88b816bdc84f4ce3a4c1213839243c47", 
+    "7a440ab638f545e5bb5d5080c30ccfdd", 
+    "f323d6a0dc5441aa86684912d9d49701", 
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "e877846ff5f349099cfa6d1c953fc033"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nAsam folat adalah sejenis vitamin. Ini membantu melindungi bayi Anda dari kerusakan dalam tulang belakangnya, yang disebut spina bifida. Anda bisa mendapatkan asam folat dengan menkonsumsi makanan yang tepat saat Anda hamil.\r\n\r\nTambah porsi sayuran hijau gelap seperti kubis daun dan bayam, serta kentang, kacang tanah dan telur. Makanan ini mengandungi asam folat.\r\n\r\nAsam folat juga didapati dalam buah-buahan seperti mangga dan pepaya.\r\n\r\nKapan memasak, biar sayuran agak renyah. Cara masakan ini memelihara kebaikan dalamnya.\r\n\r\nDalam 3 bulan pertama kehamilan Anda, otak dan sistem saraf bayi Anda berkembang pesat. Tubuh Anda membutuhkan banyak asam folat pada masa ini. Anda bisa mulai mengambil tablet zat besi dan asam folat setiap hari pada awal kehamilan. Anda mungkin bisa mendapatkannya di fasilitas kesehatan. Pergi kapan Anda pikir Anda hamil.\r\n\r\n", 
   "source": null, 
@@ -22,7 +29,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 63, 
+  "position": 148, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-do-i-need-folic-acid", 
   "uuid": "d4039d6be1c94aefa9ead8aa205e0800"
