@@ -6,15 +6,20 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:47:05+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:47:05+00:00", 
+  "modified_at": "2015-08-28T09:19:49.222241+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "84d98fc7e22347deb3d061da238a74e5", 
+    "33709aa2097d4f0f889c8a4a4d99e48e", 
+    "3a7850ed60b74de1815a5883890b7a3f", 
+    "35a58b8ffd1e421bbf414768aa867241"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nNyeri dan kram pada perut Anda saat hamil adalah normal. Biasanya, tidak ada yang butuh dikhawatirkan. Tubuh Anda sedang berubah untuk mendukung bayi Anda, dan rahim Anda meregang untuk menampung bayi selama tumbesarannya.\r\n\r\nIstirahat biasanya meringankan kram. Cobalah relaks. Duduk sejenak dan naikkan kaki Anda, atau baring mengiring bertentangan di mana rasa nyeri itu terjadi.\r\n\r\nKadang-kadang sakit perut bisa berarti sesuatu yang lebih serius:\r\n\r\n -  Kejang perut, pendarahan dan nyeri di tengah-tengah bagian bawah perut pada awal kehamilan bisa berarti Anda keguguran. Pergi ke rumah sakit jika Anda merasa seperti ini. Jika pendarahan berat dan Anda membutuhkan lebih dari 1 pad setiap jam, Anda harus segera ke fasilitas kesehatan.\r\n\r\n -  Kram nyeri yang dimulai pada sisi bagian perut dan menyebar ke seluruh perut Anda mungkin berarti bahwa kehamilan Anda berkembang di tempat yang salah. Anda juga mungkin mengalami pendarahan yang encer dan berwarna gelap. Ini terjadi pada awal kehamilan. Pergi ke fasilitas kesehatan dengan segera.\r\n\r\n -  Pada akhir kehamilan, jika Anda mengalami nyeri di bagian bawah perut, serta nyeri punggung, kram perut dan diare, itu mungkin berarti bayi Anda sedang mencoba dilahirkan sebelum cukup bulan. Pergi ke fasilitas kesehatan jika, pada akhir kehamilan, Anda mengalami sakit yang teratur, pendarahan atau air ketuban Anda pecah.\r\n\r\n", 
   "source": null, 
@@ -22,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 87, 
+  "position": 123, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-i-have-pain-my-belly", 
   "uuid": "700c77b0c65540af9ceb930d2a7e5381"
