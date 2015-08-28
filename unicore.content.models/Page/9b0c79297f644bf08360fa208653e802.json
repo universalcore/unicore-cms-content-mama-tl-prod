@@ -6,15 +6,18 @@
   "primary_category": "218ab5dc778d4773b485956abcb18a9c", 
   "created_at": "2015-03-26T09:47:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T09:47:32+00:00", 
+  "modified_at": "2015-08-28T09:19:28.122166+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "195c911f2bc846febf62b756dc59b4c8", 
+    "830ae98b753e4a3fae4a2e90b304d85f"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nSaat Anda hamil, hormon-hormon Anda mungkin mempengaruhi kulit Anda. Anda mungkin mendapati stretch mark muncul pada perut yang makin berkembang, atau warna kulit mungkin berubah pada beberapa bagian tubuh Anda.\r\n\r\nKulit Anda mungkin lebih sensitif. Sebagian adalah karena tingkat hormon yang lebih tinggi. Tapi kulit Anda juga lebih regang dan halus. Adalah ide yang baik untuk memakai pakaian yang longgar dan nyaman untuk membantu.\r\n\r\nJika Anda mandi dengan teratur dan menjaga kulit yang bersih saat hamil, ia akan membantu. Gunakan sabun dan air yang bersih dan aman. Pastikan Anda membilas semua sabun dari kulit. Apa-apa sabun yang tertinggal bisa menyebabkan gatal-gatal dan rasa pedih. Sekarang adalah waktu yang baik untuk menggunakan minyak dan krim untuk menjaga kulit agar lembut dan licin.\r\n\r\nAnda mungkin bisa melihat garis gelap muncul pada perut Anda. Ini bisa menjadi selebar ibu jari Anda, dan kadang-kadang melintasi pusat perut Anda. Garis ini muncul dari atas ke bawah, di mana otot-otot perut Anda meregang untuk memberikan bayi Anda lebih banyak ruang. Ini akan pudar beberapa minggu setelah melahirkan.\r\n\r\nAnda mungkin melihat bercak lebih gelap atau lebih cerah di dahi, pipi dan leher Anda. Ini disebabkan oleh tubuh Anda membuat hormon untuk melindungi kulit dari sinar matahari. Sinar matahari akan membuat bercak lebih gelap. Untuk menjaga kulit Anda, lindung kepala dan tubuh kapan ke mana-mana. Bercak akan memudar sekitar 3 bulan setelah kelahiran bayi Anda.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 86, 
+  "position": 178, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-why-my-skin-changing", 
   "uuid": "9b0c79297f644bf08360fa208653e802"
