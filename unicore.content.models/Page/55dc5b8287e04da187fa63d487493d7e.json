@@ -6,15 +6,18 @@
   "primary_category": "f20693eb5f5b436292f0098d892d7e1c", 
   "created_at": "2015-03-26T11:06:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-26T11:06:35+00:00", 
+  "modified_at": "2015-08-28T09:19:47.691696+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "07db02a5372d42a086f4992e09b8ddd3", 
+    "7cc7a9c84fe14ad88d95f9df1cb56304"
+  ], 
   "id": null, 
   "content": "Dikarang oleh BabyCenter\r\n\r\nMakanan adalah apa yang dibutuhkan oleh bayi Anda untuk mengembalikan kekuatannya.\r\n\r\nSemua bayi kadang-kadang jatuh sakit. Adalah menyedihkan untuk melihat bayi Anda sakit, tapi Anda bisa membantu dia untuk sembuh dengan memberikan perawatan dan pengobatan yang tepat, dan dengan terus memberinya makan dengan baik.\r\n\r\nJika bayi Anda lebih muda dari 6 bulan, air susu ibu (ASI) Anda akan membantu dia sembuh. ASI Anda adalah baik untuknya. Ia akan membantu bayi Anda menjadi semakin kuat. Jika bayi Anda mengalami diare, ASI adalah baik untuk perutnya, dan akan memberikannya segala kebaikan yang dihilang ketika dia sakit.\r\n\r\nJika bayi Anda berusia lebih dari 6 bulan, terus memberi dia makanan keluarga lecek. Tambahkan sedikit mentega atau minyak untuk menambah gizi. Meskipun dia muntah-muntah atau diare, dia masih harus makan. Makanan akan membantu dia pulih.\r\n\r\nJika dia menolak makan, tawarkan sedikit makanan, dengan sering, sepanjang hari. Ini akan membantu badannya untuk pulih.\r\n\r\nJika bayi Anda masih sakit atau ada diare lebih dari sehari, bawa berkunjung ke bidan.\r\n\r\nKapan bayi Anda mulai sembuh, tawarkan 2 hidangan tambahan dalam sehari selama 2 minggu. Ini akan membantu dia kembali sehat.\r\n\r\n", 
   "source": null, 
@@ -22,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 23, 
+  "position": 63, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "id-can-i-feed-my-sick-baby", 
   "uuid": "55dc5b8287e04da187fa63d487493d7e"
